@@ -606,11 +606,12 @@ INDEX
     width: 100%;
   }
   #main {
-    width: 69.2%;
+    width: 100%;
   }
   #sidebar {
+      display: none;
     margin-top: 0;
-    width: 22.05%;
+    width: 0%;
     font-size: .857em;
   }
   .entry:after {
@@ -627,10 +628,10 @@ INDEX
     max-width: 100%;
   }
   .layout-right-content #main {
-    float: right;
+    float: left;
   }
   .layout-right-content #sidebar {
-    float: left;
+    float: right;
   }
   .layout-full #main {
     width: 100%;

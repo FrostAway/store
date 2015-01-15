@@ -2825,7 +2825,7 @@ msgstr ""
 #: index.php:42
 #@ woothemes
 msgid "Recent Products"
-msgstr "Sản phẩm mới"
+msgstr ""
 
 #: page.php:41
 #: single.php:72

@@ -299,7 +299,7 @@ body {
   font-size: 1.4em;
   line-height: 1.618;
   color: #6c6360;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Calibri", sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
@@ -343,7 +343,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Bree Serif", sans-serif;
+  font-family: "Calibri", sans-serif;
   color: #363230;
   margin: 0 0 .618em;
   font-weight: normal;
@@ -475,7 +475,7 @@ ul.nav li a {
 }
 #navigation {
   clear: both;
-  margin-bottom: 2.618em;
+  margin-bottom: 0;
   display: none;
 }
 #navigation ul {
@@ -579,11 +579,12 @@ ul.nav li a {
 }
 /* 2.3 Header */
 #header {
-  padding: 1.618em 0 0;
-  margin-bottom: 3.631em;
+  padding: .618em 0 0;
+  margin-bottom: 2.631em;
   border-bottom: 4px double #e8e4e3;
   clear: both;
   position: relative;
+  padding-top: 0.831em !important;
 }
 #header #logo {
   float: left;

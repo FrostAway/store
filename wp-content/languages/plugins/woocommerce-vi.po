@@ -8524,7 +8524,7 @@ msgid "All Products"
 msgstr "Tất cả sản phẩm"
 
 #: includes/widgets/class-wc-widget-products.php:46
-msgid "Sản phẩm nổi bật"
+msgid "Featured Products"
 msgstr "Sản phẩm nổi bật"
 
 #: includes/widgets/class-wc-widget-products.php:47
