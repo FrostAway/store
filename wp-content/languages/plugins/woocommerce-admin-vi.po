@@ -1,0 +1,5612 @@
+# Copyright (C) 2014 WooThemes
+# This file is distributed under the same license as the WooCommerce package.
+# Translators:
+# baobinh152 <doanbc1502@gmail.com>, 2014
+# Dorawini <dorawiniweb@gmail.com>, 2014
+# Hai Trieu To <contact@tohaitrieu.net>, 2014
+# huytuduy <huynv86@gmail.com>, 2014
+# Toan Vu <fantasy1612@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce\n"
+"Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
+"POT-Creation-Date: 2014-12-16 14:43:08+00:00\n"
+"PO-Revision-Date: 2014-12-11 17:48+0000\n"
+"Last-Translator: Claudio Sanches <contato@claudiosmweb.com>\n"
+"Language-Team: Vietnamese (http://www.transifex.com/projects/p/woocommerce/language/vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/admin/class-wc-admin-assets.php:108
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr "Hãy nhập vào số thập phân (%s) không có dấu phân chia hàng nghìn"
+
+#: includes/admin/class-wc-admin-assets.php:109
+msgid ""
+"Please enter in monetary decimal (%s) format without thousand separators and"
+" currency symbols."
+msgstr "Hãy nhập vào số thập phân định dạng tiền tệ (%s) không có dấu phân chia hàng nghìn và không có mã tiền tệ."
+
+#: includes/admin/class-wc-admin-assets.php:110
+msgid "Please enter in country code with two capital letters."
+msgstr "Hãy nhập mã quốc gia với hai ký tự đại diện."
+
+#: includes/admin/class-wc-admin-assets.php:111
+msgid "Please enter in a value less than the regular price."
+msgstr "Hãy nhập giá thấp hơn giá thông thường."
+
+#: includes/admin/class-wc-admin-assets.php:144
+msgid ""
+"Are you sure you want to link all variations? This will create a new "
+"variation for each and every possible combination of variation attributes "
+"(max 50 per run)."
+msgstr "Bạn có chắc chắn muốn liên kết tất cả các thuộc tính? Điều này sẽ tạo ra một sản phẩm với nhiều lựa chọn và mức giác khác nhau cho mỗi thuộc tính. (Tối đa 50 thuộc tính mỗi lần chạy)."
+
+#: includes/admin/class-wc-admin-assets.php:145
+msgid "Enter a value"
+msgstr "Nhập giá trị"
+
+#: includes/admin/class-wc-admin-assets.php:146
+msgid "Enter a value (fixed or %)"
+msgstr "Nhập giá trị (cố định hoặc %)"
+
+#: includes/admin/class-wc-admin-assets.php:147
+msgid "Are you sure you want to delete all variations? This cannot be undone."
+msgstr "Bạn có chắc muốn xóa tất cả các thuộc tính? Nếu xóa bạn sẽ không thể hoàn tác."
+
+#: includes/admin/class-wc-admin-assets.php:148
+msgid "Last warning, are you sure?"
+msgstr "Nhắc lần cuối, bạn có chắc chắn?"
+
+#: includes/admin/class-wc-admin-assets.php:149
+#: includes/admin/class-wc-admin-taxonomies.php:130
+#: includes/admin/class-wc-admin-taxonomies.php:217
+msgid "Choose an image"
+msgstr "Chọn hình ảnh"
+
+#: includes/admin/class-wc-admin-assets.php:150
+msgid "Set variation image"
+msgstr "Thiết lập hình ảnh cho thuộc tính."
+
+#: includes/admin/class-wc-admin-assets.php:151
+msgid "variation added"
+msgstr "thuộc tính đã được thêm"
+
+#: includes/admin/class-wc-admin-assets.php:152
+msgid "variations added"
+msgstr "các thuộc tính đã được thêm"
+
+#: includes/admin/class-wc-admin-assets.php:153
+msgid "No variations added"
+msgstr "Không có thuộc tính nào được thêm"
+
+#: includes/admin/class-wc-admin-assets.php:154
+msgid "Are you sure you want to remove this variation?"
+msgstr "Bạn có chắc muốn xóa thuộc tính này?"
+
+#: includes/admin/class-wc-admin-assets.php:168
+msgid ""
+"Are you sure you want to remove the selected items? If you have previously "
+"reduced this item's stock, or this order was submitted by a customer, you "
+"will need to manually restore the item's stock."
+msgstr ""
+
+#: includes/admin/class-wc-admin-assets.php:169
+msgid "Please select some items."
+msgstr "Chọn một số mặt hàng"
+
+#: includes/admin/class-wc-admin-assets.php:170
+msgid ""
+"Are you sure you wish to process this refund? This action cannot be undone."
+msgstr "Bạn có chắc muốn tiến hành hoàn tiền? Hành động này sẽ không thể được hoàn tác."
+
+#: includes/admin/class-wc-admin-assets.php:171
+msgid ""
+"Are you sure you wish to delete this refund? This action cannot be undone."
+msgstr "Bạn có chắc muốn xóa yêu cầu hoàn tiền này? Hành động này sẽ không thể hoàn tác."
+
+#: includes/admin/class-wc-admin-assets.php:172
+msgid ""
+"Are you sure you wish to delete this tax column? This action cannot be "
+"undone."
+msgstr "Bạn có chắc muốn xóa cột thuế này? Hành động này sẽ không thể hoàn tác."
+
+#: includes/admin/class-wc-admin-assets.php:173
+msgid "Remove this item meta?"
+msgstr "Xóa thông tin thêm của mục này?"
+
+#: includes/admin/class-wc-admin-assets.php:174
+msgid "Remove this attribute?"
+msgstr "Loại bỏ thuộc tính này"
+
+#: includes/admin/class-wc-admin-assets.php:175
+#: includes/admin/class-wc-admin-attributes.php:239
+#: includes/admin/class-wc-admin-attributes.php:275
+#: includes/admin/class-wc-admin-attributes.php:307
+#: includes/admin/class-wc-admin-attributes.php:330
+#: includes/admin/class-wc-admin-attributes.php:374
+#: includes/admin/class-wc-admin-attributes.php:399
+#: includes/admin/class-wc-admin-post-types.php:111
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:193
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:460
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:560
+#: includes/admin/meta-boxes/views/html-variation-admin.php:173
+#: includes/admin/settings/class-wc-settings-shipping.php:204
+msgid "Name"
+msgstr "Tên"
+
+#: includes/admin/class-wc-admin-assets.php:176
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:452
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:552
+#: includes/admin/meta-boxes/views/html-variation-admin.php:10
+msgid "Remove"
+msgstr "Xoá"
+
+#: includes/admin/class-wc-admin-assets.php:177
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:453
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:553
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:11
+#: includes/admin/meta-boxes/views/html-variation-admin.php:11
+msgid "Click to toggle"
+msgstr "Chuyển chế độ"
+
+#: includes/admin/class-wc-admin-assets.php:178
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:468
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:566
+msgid "Value(s)"
+msgstr "Giá trị (s)"
+
+#: includes/admin/class-wc-admin-assets.php:179
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:567
+msgid "Enter some text, or some attributes by pipe (|) separating values."
+msgstr "Nhập một vài chữ hoặc một vài thuộc tính, mỗi giá trị phân cách bởi dấu gạch đứng (|)"
+
+#: includes/admin/class-wc-admin-assets.php:180
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:512
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:572
+msgid "Visible on the product page"
+msgstr "Có thể nhìn thấy trên trag sản phẩm"
+
+#: includes/admin/class-wc-admin-assets.php:181
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:526
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:578
+msgid "Used for variations"
+msgstr "Sử dụng cho các biến thể."
+
+#: includes/admin/class-wc-admin-assets.php:182
+msgid "Enter a name for the new attribute term:"
+msgstr "Nhập tên cho thuộc tính mới:"
+
+#: includes/admin/class-wc-admin-assets.php:183
+msgid "Calculate totals based on order items, discounts, and shipping?"
+msgstr "Tính tổng giá trị dựa trên thứ tự đơn hàng, giảm giá và giao nhận?"
+
+#: includes/admin/class-wc-admin-assets.php:184
+msgid ""
+"Calculate line taxes? This will calculate taxes based on the customers "
+"country. If no billing/shipping is set it will use the store base country."
+msgstr ""
+
+#: includes/admin/class-wc-admin-assets.php:185
+msgid ""
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information."
+msgstr ""
+
+#: includes/admin/class-wc-admin-assets.php:186
+msgid ""
+"Load the customer's billing information? This will remove any currently "
+"entered billing information."
+msgstr ""
+
+#: includes/admin/class-wc-admin-assets.php:187
+msgid ""
+"Load the customer's shipping information? This will remove any currently "
+"entered shipping information."
+msgstr ""
+
+#: includes/admin/class-wc-admin-assets.php:188
+#: includes/admin/class-wc-admin-post-types.php:124
+#: includes/admin/class-wc-admin-post-types.php:1989
+#: includes/admin/views/html-bulk-edit-product.php:181
+#: includes/admin/views/html-quick-edit-product.php:139
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: includes/admin/class-wc-admin-assets.php:191
+msgid "No customer selected"
+msgstr "Không có khách hàng nào được chọn"
+
+#: includes/admin/class-wc-admin-assets.php:217
+msgid ""
+"Could not grant access - the user may already have permission for this file "
+"or billing email is not set. Ensure the billing email is set, and the order "
+"has been saved."
+msgstr ""
+
+#: includes/admin/class-wc-admin-assets.php:218
+msgid "Are you sure you want to revoke access to this download?"
+msgstr ""
+
+#: includes/admin/class-wc-admin-assets.php:219
+msgid "You cannot add the same tax rate twice!"
+msgstr "Bạn không thể thêm cùng một mức thuế hai lần!"
+
+#: includes/admin/class-wc-admin-assets.php:220
+msgid ""
+"Your product has variations! Before changing the product type, it is a good "
+"idea to delete the variations to avoid errors in the stock reports."
+msgstr ""
+
+#: includes/admin/class-wc-admin-attributes.php:82
+msgid "Please, provide an attribute name, slug and type."
+msgstr "Làm ơn, cung cấp tên thuộc tính, slug và kiểu"
+
+#: includes/admin/class-wc-admin-attributes.php:84
+msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
+msgstr "Slug \"%s\" quá dài (tối đa 28 ký tự). Hãy làm nó ngắn lại"
+
+#: includes/admin/class-wc-admin-attributes.php:86
+msgid ""
+"Slug “%s” is not allowed because it is a reserved term. Change it, please."
+msgstr "Slug \"%s\" không được phép vì đã có một slug tương tự. Hãy thay đổi."
+
+#: includes/admin/class-wc-admin-attributes.php:91
+#: includes/admin/class-wc-admin-attributes.php:96
+msgid "Slug “%s” is already in use. Change it, please."
+msgstr "Slug \"%s\" đã sử dụng. Hãy thay đổi nó"
+
+#: includes/admin/class-wc-admin-attributes.php:233
+msgid "Edit Attribute"
+msgstr "Sửa Thuộc tính"
+
+#: includes/admin/class-wc-admin-attributes.php:243
+#: includes/admin/class-wc-admin-attributes.php:376
+msgid "Name for the attribute (shown on the front-end)."
+msgstr "Tên của thuộc tính (được hiển thị ngoài front-end)"
+
+#: includes/admin/class-wc-admin-attributes.php:248
+#: includes/admin/class-wc-admin-attributes.php:308
+#: includes/admin/class-wc-admin-attributes.php:380
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/admin/class-wc-admin-attributes.php:252
+#: includes/admin/class-wc-admin-attributes.php:382
+msgid ""
+"Unique slug/reference for the attribute; must be shorter than 28 characters."
+msgstr "Slug duy nhất/tham chiếu đến thuộc tính; phải ngắn hơn 28 ký tự"
+
+#: includes/admin/class-wc-admin-attributes.php:257
+#: includes/admin/class-wc-admin-attributes.php:309
+#: includes/admin/class-wc-admin-attributes.php:386
+#: includes/admin/class-wc-admin-post-types.php:125
+msgid "Type"
+msgstr "Kiểu"
+
+#: includes/admin/class-wc-admin-attributes.php:261
+#: includes/admin/class-wc-admin-attributes.php:388
+msgid "Select"
+msgstr "Lựa chọn"
+
+#: includes/admin/class-wc-admin-attributes.php:262
+#: includes/admin/class-wc-admin-attributes.php:389
+msgid "Text"
+msgstr "Văn bản"
+
+#: includes/admin/class-wc-admin-attributes.php:265
+#: includes/admin/class-wc-admin-attributes.php:392
+msgid ""
+"Determines how you select attributes for products. Under admin panel -> "
+"products -> product data -> attributes -> values, <strong>Text</strong> "
+"allows manual entry whereas <strong>select</strong> allows pre-configured "
+"terms in a drop-down list."
+msgstr ""
+
+#: includes/admin/class-wc-admin-attributes.php:270
+#: includes/admin/class-wc-admin-attributes.php:396
+msgid "Default sort order"
+msgstr "Sắp xếp mặc định"
+
+#: includes/admin/class-wc-admin-attributes.php:274
+#: includes/admin/class-wc-admin-attributes.php:336
+#: includes/admin/class-wc-admin-attributes.php:398
+msgid "Custom ordering"
+msgstr "Tuỳ chỉnh sắp xếp"
+
+#: includes/admin/class-wc-admin-attributes.php:276
+#: includes/admin/class-wc-admin-attributes.php:333
+#: includes/admin/class-wc-admin-attributes.php:400
+msgid "Term ID"
+msgstr ""
+
+#: includes/admin/class-wc-admin-attributes.php:278
+#: includes/admin/class-wc-admin-attributes.php:402
+msgid ""
+"Determines the sort order of the terms on the frontend shop product pages. "
+"If using custom ordering, you can drag and drop the terms in this attribute."
+msgstr ""
+
+#: includes/admin/class-wc-admin-attributes.php:283
+msgid "Update"
+msgstr "Cập nhật"
+
+#: includes/admin/class-wc-admin-attributes.php:299
+#: includes/admin/class-wc-admin-menus.php:53
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:111
+msgid "Attributes"
+msgstr "Các thuộc tính"
+
+#: includes/admin/class-wc-admin-attributes.php:310
+msgid "Order by"
+msgstr "Sắp xếp theo"
+
+#: includes/admin/class-wc-admin-attributes.php:311
+msgid "Terms"
+msgstr ""
+
+#: includes/admin/class-wc-admin-attributes.php:323
+#: includes/admin/class-wc-admin-post-types.php:213
+#: includes/admin/class-wc-admin-post-types.php:1993
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:215
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:298
+#: includes/admin/meta-boxes/views/html-order-items.php:203
+#: includes/admin/reports/class-wc-report-customer-list.php:189
+#: includes/admin/reports/class-wc-report-stock.php:126
+msgid "Edit"
+msgstr "Sửa"
+
+#: includes/admin/class-wc-admin-attributes.php:323
+#: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:46
+#: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:58
+#: includes/admin/meta-boxes/views/html-product-download.php:6
+#: includes/admin/meta-boxes/views/html-product-variation-download.php:5
+msgid "Delete"
+msgstr "Xoá"
+
+#: includes/admin/class-wc-admin-attributes.php:356
+msgid "Configure terms"
+msgstr ""
+
+#: includes/admin/class-wc-admin-attributes.php:360
+msgid "No attributes currently exist."
+msgstr "Không tồn tại thuộc tính nào."
+
+#: includes/admin/class-wc-admin-attributes.php:370
+msgid "Add New Attribute"
+msgstr "Thêm mới Thuộc tính"
+
+#: includes/admin/class-wc-admin-attributes.php:371
+msgid ""
+"Attributes let you define extra product data, such as size or colour. You "
+"can use these attributes in the shop sidebar using the \"layered nav\" "
+"widgets. Please note: you cannot rename an attribute later on."
+msgstr ""
+
+#: includes/admin/class-wc-admin-attributes.php:405
+msgid "Add Attribute"
+msgstr "Thêm thuộc tính"
+
+#: includes/admin/class-wc-admin-attributes.php:416
+msgid "Are you sure you want to delete this attribute?"
+msgstr "Bạn có muốn xoá thuộc tính này?"
+
+#: includes/admin/class-wc-admin-dashboard.php:37
+msgid "WooCommerce Recent Reviews"
+msgstr "Đánh giá gần đây"
+
+#: includes/admin/class-wc-admin-dashboard.php:40
+#: includes/admin/class-wc-admin-menus.php:84
+msgid "WooCommerce Status"
+msgstr "Trạng thái WooCommerce"
+
+#: includes/admin/class-wc-admin-dashboard.php:134
+msgid "<strong>%s</strong> sales this month"
+msgstr "<strong>%s</strong> lượt bán trong tháng này"
+
+#: includes/admin/class-wc-admin-dashboard.php:141
+msgid "%s top seller this month (sold %d)"
+msgstr "%s người bán nhất tháng này (đã bán %d)"
+
+#: includes/admin/class-wc-admin-dashboard.php:147
+msgid "<strong>%s order</strong> awaiting processing"
+msgid_plural "<strong>%s orders</strong> awaiting processing"
+msgstr[0] "<strong>%s đơn hàng</strong> đang chờ xử lý"
+
+#: includes/admin/class-wc-admin-dashboard.php:152
+msgid "<strong>%s order</strong> on-hold"
+msgid_plural "<strong>%s orders</strong> on-hold"
+msgstr[0] "<strong>%s đơn hàng</strong> đang xử lý"
+
+#: includes/admin/class-wc-admin-dashboard.php:157
+msgid "<strong>%s product</strong> low in stock"
+msgid_plural "<strong>%s products</strong> low in stock"
+msgstr[0] "<strong>%s sản phẩm</strong> sắp hết hàng"
+
+#: includes/admin/class-wc-admin-dashboard.php:162
+msgid "<strong>%s product</strong> out of stock"
+msgid_plural "<strong>%s products</strong> out of stock"
+msgstr[0] "<strong>%s sản phẩm</strong> hết hàng"
+
+#: includes/admin/class-wc-admin-dashboard.php:195
+msgid "out of 5"
+msgstr "trên 5"
+
+#: includes/admin/class-wc-admin-dashboard.php:197
+msgid "reviewed by"
+msgstr "đánh giá bởi"
+
+#: includes/admin/class-wc-admin-dashboard.php:203
+msgid "There are no product reviews yet."
+msgstr "Không có đánh giá sản phẩm nào."
+
+#: includes/admin/class-wc-admin-duplicate-product.php:45
+msgid "Make a duplicate from this product"
+msgstr "Tạo một trùng lặp từ sản phẩm này"
+
+#: includes/admin/class-wc-admin-duplicate-product.php:46
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: includes/admin/class-wc-admin-duplicate-product.php:69
+msgid "Copy to a new draft"
+msgstr "Sao chép tới một bản nháp"
+
+#: includes/admin/class-wc-admin-duplicate-product.php:79
+msgid "No product to duplicate has been supplied!"
+msgstr "Không có sản phẩm để sao chép"
+
+#: includes/admin/class-wc-admin-duplicate-product.php:101
+msgid "Product creation failed, could not find original product:"
+msgstr "Tạo Sản phẩm không thành công, không thể tìm sản phẩm gốc"
+
+#: includes/admin/class-wc-admin-duplicate-product.php:128
+msgid "(Copy)"
+msgstr "(Sao chép)"
+
+#: includes/admin/class-wc-admin-help.php:40
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: includes/admin/class-wc-admin-help.php:43
+msgid ""
+"Thank you for using WooCommerce :) Should you need help using or extending "
+"WooCommerce please read the documentation."
+msgstr "Cảm ơn đã sử dụng WooCommerce :) Bạn cần giúp đỡ trong việc sử dụng hay mở rộng WooCommerce  xin hãy đọc tài liệu"
+
+#: includes/admin/class-wc-admin-help.php:45
+msgid "WooCommerce Documentation"
+msgstr "Tài liệu WooCommerce"
+
+#: includes/admin/class-wc-admin-help.php:45
+msgid "Developer API Docs"
+msgstr "Tài liệu nhà phát triển API"
+
+#: includes/admin/class-wc-admin-help.php:51
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: includes/admin/class-wc-admin-help.php:54
+msgid ""
+"After %sreading the documentation%s, for further assistance you can use our "
+"%scommunity forum%s if you get stuck. For help with premium add-ons from "
+"WooThemes, or if you are a WooThemes customer, you can %suse our helpdesk%s."
+msgstr ""
+
+#: includes/admin/class-wc-admin-help.php:56
+msgid ""
+"Before asking for help we recommend checking the status page to identify any"
+" problems with your configuration."
+msgstr ""
+
+#: includes/admin/class-wc-admin-help.php:58
+#: includes/admin/class-wc-admin-help.php:69
+#: includes/admin/class-wc-admin-menus.php:84
+#: includes/admin/views/html-admin-page-status.php:16
+#: includes/admin/views/html-notice-template-check.php:14
+msgid "System Status"
+msgstr "Tình trạng hệ thống"
+
+#: includes/admin/class-wc-admin-help.php:58
+msgid "WooThemes Community Support"
+msgstr "Cộng đồng hỗ trợ của WooThemes"
+
+#: includes/admin/class-wc-admin-help.php:58
+msgid "WooThemes Customer Support"
+msgstr "Khu vực hỗ trợ khách hàng của WooThemes"
+
+#: includes/admin/class-wc-admin-help.php:64
+msgid "Found a bug?"
+msgstr "Đã tìm thấy lỗi?"
+
+#: includes/admin/class-wc-admin-help.php:67
+msgid ""
+"If you find a bug within WooCommerce core you can create a ticket via <a "
+"href=\"%s\">Github issues</a>. Ensure you read the <a "
+"href=\"%s\">contribution guide</a> prior to submitting your report. Be as "
+"descriptive as possible and please include your <a href=\"%s\">system status"
+" report</a>."
+msgstr ""
+
+#: includes/admin/class-wc-admin-help.php:69
+msgid "Report a bug"
+msgstr "Báo lỗi"
+
+#: includes/admin/class-wc-admin-help.php:74
+msgid "For more information:"
+msgstr "Thêm thông tin:"
+
+#: includes/admin/class-wc-admin-help.php:75
+#: includes/admin/class-wc-admin-welcome.php:51
+msgid "About WooCommerce"
+msgstr "Về WooCommerce"
+
+#: includes/admin/class-wc-admin-help.php:76
+msgid "WordPress.org Project"
+msgstr "Dự án WordPress.org"
+
+#: includes/admin/class-wc-admin-help.php:77
+msgid "Github Project"
+msgstr "Dự án trên Github"
+
+#: includes/admin/class-wc-admin-help.php:78
+msgid "Official Themes"
+msgstr "Các Theme chính thống"
+
+#: includes/admin/class-wc-admin-help.php:79
+msgid "Official Extensions"
+msgstr "Các Extension chính thống"
+
+#: includes/admin/class-wc-admin-importers.php:34
+msgid "WooCommerce Tax Rates (CSV)"
+msgstr ""
+
+#: includes/admin/class-wc-admin-importers.php:34
+msgid "Import <strong>tax rates</strong> to your store via a csv file."
+msgstr "Nhập <strong>mức thuế suất</strong> vào gian hàng qua file csv."
+
+#: includes/admin/class-wc-admin-menus.php:60
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: includes/admin/class-wc-admin-menus.php:67
+msgid "WooCommerce Settings"
+msgstr "Thiết lập WooCommerce"
+
+#: includes/admin/class-wc-admin-menus.php:67
+#: includes/admin/class-wc-admin-welcome.php:225
+#: includes/admin/settings/class-wc-settings-checkout.php:288
+#: includes/admin/settings/class-wc-settings-shipping.php:236
+#: includes/admin/views/html-admin-page-status-report.php:294
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: includes/admin/class-wc-admin-menus.php:92
+#: includes/admin/views/html-admin-page-addons.php:15
+msgid "WooCommerce Add-ons/Extensions"
+msgstr "WooCommerce Add-ons/Extensions"
+
+#: includes/admin/class-wc-admin-menus.php:92
+msgid "Add-ons"
+msgstr "Tiện ích"
+
+#: includes/admin/class-wc-admin-meta-boxes.php:103
+msgid "Product Short Description"
+msgstr "Mô tả ngắn Sản phẩm"
+
+#: includes/admin/class-wc-admin-meta-boxes.php:104
+#: includes/admin/settings/class-wc-settings-products.php:287
+#: includes/admin/views/html-bulk-edit-product.php:15
+#: includes/admin/views/html-quick-edit-product.php:15
+msgid "Product Data"
+msgstr "Dữ liệu Sản phẩm"
+
+#: includes/admin/class-wc-admin-meta-boxes.php:105
+msgid "Product Gallery"
+msgstr "Trưng bày Sản phẩm"
+
+#: includes/admin/class-wc-admin-meta-boxes.php:110
+msgid "%s Data"
+msgstr ""
+
+#: includes/admin/class-wc-admin-meta-boxes.php:111
+msgid "%s Items"
+msgstr ""
+
+#: includes/admin/class-wc-admin-meta-boxes.php:112
+msgid "%s Notes"
+msgstr ""
+
+#: includes/admin/class-wc-admin-meta-boxes.php:113
+msgid "Downloadable Product Permissions"
+msgstr "Cấp phép cho sản phẩm có thể tải về"
+
+#: includes/admin/class-wc-admin-meta-boxes.php:113
+msgid ""
+"Note: Permissions for order items will automatically be granted when the "
+"order status changes to processing/completed."
+msgstr ""
+
+#: includes/admin/class-wc-admin-meta-boxes.php:114
+msgid "%s Actions"
+msgstr ""
+
+#: includes/admin/class-wc-admin-meta-boxes.php:118
+msgid "Coupon Data"
+msgstr "Dữ liệu phiếu giảm giá"
+
+#: includes/admin/class-wc-admin-meta-boxes.php:123
+msgid "Rating"
+msgstr "Bình chọn"
+
+#: includes/admin/class-wc-admin-meta-boxes.php:159
+msgid "Reviews"
+msgstr "Đánh giá"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:35
+msgid "Product permalink base"
+msgstr "Đường dẫn tính trước đường dẫn sản phẩm"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:40
+msgid "Product category base"
+msgstr "Đường dẫn tĩnh trước danh mục sản phẩm"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:47
+msgid "Product tag base"
+msgstr "Từ khóa sản phẩm cơ bản"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:54
+msgid "Product attribute base"
+msgstr ""
+
+#: includes/admin/class-wc-admin-permalink-settings.php:95
+msgid ""
+"These settings control the permalinks used for products. These settings only"
+" apply when <strong>not using \"default\" permalinks above</strong>."
+msgstr ""
+
+#: includes/admin/class-wc-admin-permalink-settings.php:115
+#: includes/admin/class-wc-admin-taxonomies.php:95
+#: includes/admin/class-wc-admin-taxonomies.php:184
+#: includes/admin/settings/class-wc-settings-checkout.php:231
+#: includes/admin/settings/class-wc-settings-shipping.php:203
+msgid "Default"
+msgstr "Mặc định"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:119
+#: includes/admin/reports/class-wc-report-stock.php:155
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:124
+msgid "Shop base"
+msgstr ""
+
+#: includes/admin/class-wc-admin-permalink-settings.php:128
+msgid "Shop base with category"
+msgstr ""
+
+#: includes/admin/class-wc-admin-permalink-settings.php:134
+msgid "Custom Base"
+msgstr ""
+
+#: includes/admin/class-wc-admin-permalink-settings.php:136
+msgid ""
+"Enter a custom base to use. A base <strong>must</strong> be set or WordPress"
+" will use default instead."
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:110
+#: includes/admin/class-wc-admin-taxonomies.php:300
+msgid "Image"
+msgstr "Ảnh"
+
+#: includes/admin/class-wc-admin-post-types.php:114
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:142
+#: includes/admin/meta-boxes/views/html-variation-admin.php:57
+#: includes/admin/views/html-quick-edit-product.php:22
+msgid "SKU"
+msgstr "SKU"
+
+#: includes/admin/class-wc-admin-post-types.php:118
+#: includes/admin/class-wc-admin-reports.php:91
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:834
+#: includes/admin/reports/class-wc-report-stock.php:29
+#: includes/admin/reports/class-wc-report-stock.php:30
+msgid "Stock"
+msgstr "Kho"
+
+#: includes/admin/class-wc-admin-post-types.php:121
+#: includes/admin/views/html-bulk-edit-product.php:21
+#: includes/admin/views/html-quick-edit-product.php:33
+msgid "Price"
+msgstr "Giá"
+
+#: includes/admin/class-wc-admin-post-types.php:122
+#: includes/admin/reports/class-wc-report-sales-by-category.php:166
+msgid "Categories"
+msgstr "Danh mục"
+
+#: includes/admin/class-wc-admin-post-types.php:123
+msgid "Tags"
+msgstr "Từ khóa"
+
+#: includes/admin/class-wc-admin-post-types.php:126
+#: includes/admin/class-wc-admin-post-types.php:164
+#: includes/admin/reports/class-wc-report-coupon-usage.php:339
+#: includes/admin/reports/class-wc-report-customers.php:209
+#: includes/admin/reports/class-wc-report-sales-by-category.php:240
+#: includes/admin/reports/class-wc-report-sales-by-date.php:224
+#: includes/admin/reports/class-wc-report-sales-by-product.php:329
+msgid "Date"
+msgstr "Ngày"
+
+#: includes/admin/class-wc-admin-post-types.php:139
+msgid "Code"
+msgstr "Mã"
+
+#: includes/admin/class-wc-admin-post-types.php:140
+msgid "Coupon type"
+msgstr "Loại phiếu giảm giá"
+
+#: includes/admin/class-wc-admin-post-types.php:141
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:68
+#: includes/admin/reports/class-wc-report-sales-by-date.php:436
+msgid "Coupon amount"
+msgstr "Mức giảm giá"
+
+#: includes/admin/class-wc-admin-post-types.php:142
+msgid "Description"
+msgstr "Mô tả"
+
+#: includes/admin/class-wc-admin-post-types.php:143
+msgid "Product IDs"
+msgstr "ID của sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:144
+msgid "Usage / Limit"
+msgstr "Sử dụng / Giới hạn"
+
+#: includes/admin/class-wc-admin-post-types.php:145
+msgid "Expiry date"
+msgstr "Ngày hết hạn"
+
+#: includes/admin/class-wc-admin-post-types.php:158
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:818
+#: includes/admin/settings/class-wc-settings-checkout.php:234
+#: includes/admin/settings/class-wc-settings-shipping.php:206
+msgid "Status"
+msgstr "Tình trạng"
+
+#: includes/admin/class-wc-admin-post-types.php:159
+msgid "Order"
+msgstr "Đơn hàng"
+
+#: includes/admin/class-wc-admin-post-types.php:160
+msgid "Purchased"
+msgstr "Thanh toán"
+
+#: includes/admin/class-wc-admin-post-types.php:161
+msgid "Ship to"
+msgstr "Giao hàng đến"
+
+#: includes/admin/class-wc-admin-post-types.php:162
+msgid "Customer Message"
+msgstr "Tin nhắn khách hàng"
+
+#: includes/admin/class-wc-admin-post-types.php:163
+msgid "Order Notes"
+msgstr "Ghi chú"
+
+#: includes/admin/class-wc-admin-post-types.php:165
+#: includes/admin/meta-boxes/views/html-order-items.php:57
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:173
+msgid "Total"
+msgstr "Tổng cộng"
+
+#: includes/admin/class-wc-admin-post-types.php:166
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:41
+#: includes/admin/meta-boxes/views/html-order-items.php:201
+#: includes/admin/reports/class-wc-report-customer-list.php:251
+#: includes/admin/reports/class-wc-report-stock.php:159
+msgid "Actions"
+msgstr "Hành động"
+
+#: includes/admin/class-wc-admin-post-types.php:213
+msgid "Edit this item"
+msgstr "Sửa mục này"
+
+#: includes/admin/class-wc-admin-post-types.php:214
+msgid "Edit this item inline"
+msgstr "Sửa mục này tại dòng"
+
+#: includes/admin/class-wc-admin-post-types.php:214
+msgid "Quick&nbsp;Edit"
+msgstr "Chỉnh sửa nhanh"
+
+#: includes/admin/class-wc-admin-post-types.php:218
+#: includes/admin/class-wc-admin-post-types.php:369
+msgid "Restore this item from the Trash"
+msgstr "Khôi phục mục này từ Thùng rác"
+
+#: includes/admin/class-wc-admin-post-types.php:218
+#: includes/admin/class-wc-admin-post-types.php:369
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: includes/admin/class-wc-admin-post-types.php:220
+#: includes/admin/class-wc-admin-post-types.php:371
+msgid "Move this item to the Trash"
+msgstr "Chuyển mục này vào Thùng rác"
+
+#: includes/admin/class-wc-admin-post-types.php:220
+#: includes/admin/class-wc-admin-post-types.php:371
+msgid "Trash"
+msgstr "Thùng rác"
+
+#: includes/admin/class-wc-admin-post-types.php:224
+#: includes/admin/class-wc-admin-post-types.php:373
+msgid "Delete this item permanently"
+msgstr "Xoá ngay mục này"
+
+#: includes/admin/class-wc-admin-post-types.php:224
+#: includes/admin/class-wc-admin-post-types.php:373
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:74
+msgid "Delete Permanently"
+msgstr "Xoá ngay"
+
+#: includes/admin/class-wc-admin-post-types.php:230
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Xem trước &#8220;%s&#8221;"
+
+#: includes/admin/class-wc-admin-post-types.php:230
+msgid "Preview"
+msgstr "Xem trước"
+
+#: includes/admin/class-wc-admin-post-types.php:232
+msgid "View &#8220;%s&#8221;"
+msgstr "Xem &#8220;%s&#8221;"
+
+#: includes/admin/class-wc-admin-post-types.php:232
+#: includes/admin/class-wc-admin-post-types.php:622
+#: includes/admin/reports/class-wc-report-stock.php:133
+#: includes/admin/views/html-admin-page-status-logs.php:24
+msgid "View"
+msgstr "Xem"
+
+#: includes/admin/class-wc-admin-post-types.php:282
+msgid "Grouped"
+msgstr "Nhóm lại"
+
+#: includes/admin/class-wc-admin-post-types.php:284
+msgid "External/Affiliate"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:288
+#: includes/admin/class-wc-admin-post-types.php:1436
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:57
+#: includes/admin/meta-boxes/views/html-variation-admin.php:239
+msgid "Virtual"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:290
+#: includes/admin/class-wc-admin-post-types.php:1428
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:64
+#: includes/admin/meta-boxes/views/html-variation-admin.php:237
+msgid "Downloadable"
+msgstr "Có thể tải về"
+
+#: includes/admin/class-wc-admin-post-types.php:292
+msgid "Simple"
+msgstr "Đơn giảm"
+
+#: includes/admin/class-wc-admin-post-types.php:296
+msgid "Variable"
+msgstr "Nhiều giá"
+
+#: includes/admin/class-wc-admin-post-types.php:319
+msgid "Toggle featured"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:321
+#: includes/admin/class-wc-admin-post-types.php:470
+#: includes/admin/class-wc-admin-post-types.php:530
+#: includes/admin/class-wc-admin-post-types.php:534
+#: includes/admin/views/html-admin-page-status-report.php:52
+#: includes/admin/views/html-admin-page-status-report.php:90
+#: includes/admin/views/html-admin-page-status-report.php:115
+#: includes/admin/views/html-admin-page-status-report.php:301
+#: includes/admin/views/html-admin-page-status-report.php:458
+#: includes/admin/views/html-admin-page-status-report.php:485
+#: includes/admin/views/html-bulk-edit-product.php:187
+#: includes/admin/views/html-bulk-edit-product.php:224
+#: includes/admin/views/html-bulk-edit-product.php:285
+msgid "Yes"
+msgstr "Có"
+
+#: includes/admin/class-wc-admin-post-types.php:323
+#: includes/admin/views/html-admin-page-status-report.php:52
+#: includes/admin/views/html-admin-page-status-report.php:90
+#: includes/admin/views/html-admin-page-status-report.php:115
+#: includes/admin/views/html-admin-page-status-report.php:301
+#: includes/admin/views/html-admin-page-status-report.php:458
+#: includes/admin/views/html-bulk-edit-product.php:188
+#: includes/admin/views/html-bulk-edit-product.php:225
+#: includes/admin/views/html-bulk-edit-product.php:286
+msgid "No"
+msgstr "Không"
+
+#: includes/admin/class-wc-admin-post-types.php:330
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:328
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:797
+#: includes/admin/reports/class-wc-report-stock.php:108
+#: includes/admin/views/html-bulk-edit-product.php:205
+#: includes/admin/views/html-quick-edit-product.php:148
+msgid "In stock"
+msgstr "Còn hàng"
+
+#: includes/admin/class-wc-admin-post-types.php:332
+#: includes/admin/class-wc-admin-reports.php:100
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:329
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:798
+#: includes/admin/reports/class-wc-report-stock.php:110
+#: includes/admin/views/html-bulk-edit-product.php:206
+#: includes/admin/views/html-quick-edit-product.php:149
+msgid "Out of stock"
+msgstr "Hết hàng"
+
+#: includes/admin/class-wc-admin-post-types.php:360
+msgid "Edit coupon"
+msgstr "Sửa phiếu giảm giá"
+
+#: includes/admin/class-wc-admin-post-types.php:418
+msgid "%s / %s"
+msgstr "%s / %s"
+
+#: includes/admin/class-wc-admin-post-types.php:420
+msgid "%s / &infin;"
+msgstr "%s / &infin;"
+
+#: includes/admin/class-wc-admin-post-types.php:456
+msgid "Unpublished"
+msgstr "Chưa xuất bản"
+
+#: includes/admin/class-wc-admin-post-types.php:458
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: includes/admin/class-wc-admin-post-types.php:461
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/admin/class-wc-admin-post-types.php:477
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d mục"
+
+#: includes/admin/class-wc-admin-post-types.php:511
+#: includes/admin/class-wc-admin-post-types.php:546
+msgid "Via"
+msgstr "Qua"
+
+#: includes/admin/class-wc-admin-post-types.php:532
+msgid "plus %d other note"
+msgid_plural "plus %d other notes"
+msgstr[0] ""
+
+#: includes/admin/class-wc-admin-post-types.php:532
+msgid "%d note"
+msgid_plural "%d notes"
+msgstr[0] "%d ghi chú"
+
+#: includes/admin/class-wc-admin-post-types.php:554
+msgid "Billing:"
+msgstr "Thanh toán:"
+
+#: includes/admin/class-wc-admin-post-types.php:558
+msgid "Tel:"
+msgstr "Điện thoại:"
+
+#: includes/admin/class-wc-admin-post-types.php:583
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:202
+msgid "Guest"
+msgstr "Khách"
+
+#: includes/admin/class-wc-admin-post-types.php:587
+msgid "%s by %s"
+msgstr "%s bởi %s"
+
+#: includes/admin/class-wc-admin-post-types.php:607
+msgid "Processing"
+msgstr "Đang xử lý"
+
+#: includes/admin/class-wc-admin-post-types.php:615
+msgid "Complete"
+msgstr "Hoàn tất"
+
+#: includes/admin/class-wc-admin-post-types.php:715
+msgid "Sort Products"
+msgstr "Lọc sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:1168
+#: includes/admin/class-wc-admin-post-types.php:1169
+msgid "Mark processing"
+msgstr "Đánh dấu là đang xử lý"
+
+#: includes/admin/class-wc-admin-post-types.php:1171
+#: includes/admin/class-wc-admin-post-types.php:1172
+msgid "Mark on-hold"
+msgstr "Đánh dấu đang chờ"
+
+#: includes/admin/class-wc-admin-post-types.php:1174
+#: includes/admin/class-wc-admin-post-types.php:1175
+msgid "Mark complete"
+msgstr "Đánh dấu là đã hoàn tất"
+
+#: includes/admin/class-wc-admin-post-types.php:1216
+msgid "Order status changed by bulk edit:"
+msgstr "Trạng thái đơn hàng đã thay đổi bằng cách sửa hàng loạt"
+
+#: includes/admin/class-wc-admin-post-types.php:1238
+msgid "Order status changed."
+msgid_plural "%s order statuses changed."
+msgstr[0] "%s đơn hàng đã thay đổi trạng thái"
+
+#: includes/admin/class-wc-admin-post-types.php:1388
+msgid "Show all product types"
+msgstr "Hiển thị toàn bộ loại sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:1401
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:40
+msgid "Grouped product"
+msgstr "Sản phẩm gom nh"
+
+#: includes/admin/class-wc-admin-post-types.php:1404
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:41
+msgid "External/Affiliate product"
+msgstr "Sản phẩm bên ngoài / liên kết"
+
+#: includes/admin/class-wc-admin-post-types.php:1407
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:42
+msgid "Variable product"
+msgstr "Biến sản p"
+
+#: includes/admin/class-wc-admin-post-types.php:1410
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:39
+msgid "Simple product"
+msgstr "Sản phẩm đơn giản"
+
+#: includes/admin/class-wc-admin-post-types.php:1451
+msgid "Show all types"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1479
+#: includes/admin/class-wc-admin-post-types.php:1501
+msgid "Show all customers"
+msgstr "Hiển thị toàn bộ khách hàng"
+
+#: includes/admin/class-wc-admin-post-types.php:1663
+msgid "Product updated. <a href=\"%s\">View Product</a>"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1664
+#: includes/admin/class-wc-admin-post-types.php:1679
+#: includes/admin/class-wc-admin-post-types.php:1694
+msgid "Custom field updated."
+msgstr "Đã cập nhật trường tùy biến"
+
+#: includes/admin/class-wc-admin-post-types.php:1665
+#: includes/admin/class-wc-admin-post-types.php:1680
+#: includes/admin/class-wc-admin-post-types.php:1695
+msgid "Custom field deleted."
+msgstr "Đã xóa trường tùy biến"
+
+#: includes/admin/class-wc-admin-post-types.php:1666
+msgid "Product updated."
+msgstr "Đã cập nhật Sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:1667
+msgid "Product restored to revision from %s"
+msgstr "Sản phẩm đã khôi phục thành sửa đổi từ %s"
+
+#: includes/admin/class-wc-admin-post-types.php:1668
+msgid "Product published. <a href=\"%s\">View Product</a>"
+msgstr "Sản phẩm đã xuất bản. <a href=\"%s\">Xem Sản phẩm</a>"
+
+#: includes/admin/class-wc-admin-post-types.php:1669
+msgid "Product saved."
+msgstr "Đã lưu Sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:1670
+msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1671
+msgid ""
+"Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Product</a>"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1672
+#: includes/admin/class-wc-admin-post-types.php:1687
+#: includes/admin/class-wc-admin-post-types.php:1702
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1673
+msgid "Product draft updated. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1678
+#: includes/admin/class-wc-admin-post-types.php:1681
+#: includes/admin/class-wc-admin-post-types.php:1683
+msgid "Order updated."
+msgstr "Đơn hàng đã được cập nhật"
+
+#: includes/admin/class-wc-admin-post-types.php:1682
+msgid "Order restored to revision from %s"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1684
+msgid "Order saved."
+msgstr "Đơn hàng đã lưu."
+
+#: includes/admin/class-wc-admin-post-types.php:1685
+msgid "Order submitted."
+msgstr "Đơn hàng đã được gửi."
+
+#: includes/admin/class-wc-admin-post-types.php:1686
+msgid "Order scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1688
+msgid "Order draft updated."
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1693
+#: includes/admin/class-wc-admin-post-types.php:1696
+#: includes/admin/class-wc-admin-post-types.php:1698
+msgid "Coupon updated."
+msgstr "Phiếu giảm giá đã được cập nhật"
+
+#: includes/admin/class-wc-admin-post-types.php:1697
+msgid "Coupon restored to revision from %s"
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1699
+msgid "Coupon saved."
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1700
+msgid "Coupon submitted."
+msgstr "Phiếu giảm giá đã được chấp nhận."
+
+#: includes/admin/class-wc-admin-post-types.php:1701
+msgid "Coupon scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1703
+msgid "Coupon draft updated."
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:1885
+msgid "Product Image"
+msgstr "Ảnh sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:1887
+msgid "Remove product image"
+msgstr "Xóa ảnh sản phẩm."
+
+#: includes/admin/class-wc-admin-post-types.php:1889
+#: includes/admin/class-wc-admin-post-types.php:1905
+#: includes/admin/class-wc-admin-post-types.php:1906
+msgid "Set product image"
+msgstr "Thiết lập ảnh sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:1921
+msgid "Product name"
+msgstr "Tên Sản phẩm"
+
+#: includes/admin/class-wc-admin-post-types.php:1924
+msgid "Coupon code"
+msgstr "Mã giảm giá"
+
+#: includes/admin/class-wc-admin-post-types.php:1937
+msgid "Description (optional)"
+msgstr "Miêu tả (tùy chọn)"
+
+#: includes/admin/class-wc-admin-post-types.php:1954
+msgid "Insert into %s"
+msgstr "Chèn vào %s"
+
+#: includes/admin/class-wc-admin-post-types.php:1955
+msgid "Uploaded to this %s"
+msgstr "Đã được tải lên cho %s này"
+
+#: includes/admin/class-wc-admin-post-types.php:1978
+msgid "Catalog/search"
+msgstr "Catalog/tìm kiếm"
+
+#: includes/admin/class-wc-admin-post-types.php:1979
+#: includes/admin/views/html-bulk-edit-product.php:169
+#: includes/admin/views/html-quick-edit-product.php:126
+msgid "Catalog"
+msgstr "Catalog"
+
+#: includes/admin/class-wc-admin-post-types.php:1980
+#: includes/admin/views/html-bulk-edit-product.php:170
+#: includes/admin/views/html-quick-edit-product.php:127
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: includes/admin/class-wc-admin-post-types.php:1981
+#: includes/admin/views/html-bulk-edit-product.php:171
+#: includes/admin/views/html-quick-edit-product.php:128
+msgid "Hidden"
+msgstr "Ẩn"
+
+#: includes/admin/class-wc-admin-post-types.php:1985
+msgid "Catalog visibility:"
+msgstr "Catalog có thể xem:"
+
+#: includes/admin/class-wc-admin-post-types.php:2001
+msgid ""
+"Define the loops this product should be visible in. The product will still "
+"be accessible directly."
+msgstr ""
+
+#: includes/admin/class-wc-admin-post-types.php:2007
+msgid "Enable this option to feature this product."
+msgstr "Bật tuỳ chọn này để đề cử sản phẩm này"
+
+#: includes/admin/class-wc-admin-post-types.php:2009
+msgid "Featured Product"
+msgstr "Sản phẩm đề cử"
+
+#: includes/admin/class-wc-admin-post-types.php:2012
+msgid "OK"
+msgstr "OK"
+
+#: includes/admin/class-wc-admin-post-types.php:2013
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:177
+#: includes/admin/meta-boxes/views/html-order-items.php:237
+#: includes/admin/meta-boxes/views/html-order-items.php:280
+#: includes/admin/meta-boxes/views/html-order-items.php:300
+#: includes/admin/meta-boxes/views/html-order-items.php:355
+msgid "Cancel"
+msgstr "Hủy"
+
+#: includes/admin/class-wc-admin-profile.php:47
+msgid "Customer Billing Address"
+msgstr "Địa chỉ thanh toán của khách hàng."
+
+#: includes/admin/class-wc-admin-profile.php:50
+#: includes/admin/class-wc-admin-profile.php:99
+msgid "First name"
+msgstr "Họ"
+
+#: includes/admin/class-wc-admin-profile.php:54
+#: includes/admin/class-wc-admin-profile.php:103
+msgid "Last name"
+msgstr "Tên"
+
+#: includes/admin/class-wc-admin-profile.php:58
+#: includes/admin/class-wc-admin-profile.php:107
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:51
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:98
+msgid "Company"
+msgstr "Công ty"
+
+#: includes/admin/class-wc-admin-profile.php:62
+#: includes/admin/class-wc-admin-profile.php:111
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:55
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:102
+msgid "Address 1"
+msgstr "Địa chỉ 1"
+
+#: includes/admin/class-wc-admin-profile.php:66
+#: includes/admin/class-wc-admin-profile.php:115
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:59
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:106
+msgid "Address 2"
+msgstr "Địa chỉ 2"
+
+#: includes/admin/class-wc-admin-profile.php:70
+#: includes/admin/class-wc-admin-profile.php:119
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:63
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:110
+#: includes/admin/settings/class-wc-settings-tax.php:267
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "City"
+msgstr "Thành phố"
+
+#: includes/admin/class-wc-admin-profile.php:74
+#: includes/admin/class-wc-admin-profile.php:123
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:67
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:114
+msgid "Postcode"
+msgstr "Mã bưu điện"
+
+#: includes/admin/class-wc-admin-profile.php:78
+#: includes/admin/class-wc-admin-profile.php:127
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:77
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:124
+msgid "State/County"
+msgstr "Bang/Quận"
+
+#: includes/admin/class-wc-admin-profile.php:79
+#: includes/admin/class-wc-admin-profile.php:128
+msgid "State/County or state code"
+msgstr "Mã Bang/Quốc gia hoặc quận"
+
+#: includes/admin/class-wc-admin-profile.php:82
+#: includes/admin/class-wc-admin-profile.php:131
+#: includes/admin/class-wc-admin-settings.php:578
+#: includes/admin/class-wc-admin-settings.php:603
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:71
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:118
+msgid "Country"
+msgstr "Quốc gia"
+
+#: includes/admin/class-wc-admin-profile.php:83
+#: includes/admin/class-wc-admin-profile.php:132
+msgid "2 letter Country code"
+msgstr "2 chữ cái mã Quốc gia"
+
+#: includes/admin/class-wc-admin-profile.php:86
+msgid "Telephone"
+msgstr "Điện thoại"
+
+#: includes/admin/class-wc-admin-profile.php:90
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:81
+#: includes/admin/reports/class-wc-report-customer-list.php:246
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/class-wc-admin-profile.php:96
+msgid "Customer Shipping Address"
+msgstr "Địa chỉ Giao hàng"
+
+#: includes/admin/class-wc-admin-profile.php:199
+msgid "Read"
+msgstr "Đọc"
+
+#: includes/admin/class-wc-admin-profile.php:200
+msgid "Write"
+msgstr "Viết"
+
+#: includes/admin/class-wc-admin-profile.php:201
+msgid "Read/Write"
+msgstr "Đọc/Viết"
+
+#: includes/admin/class-wc-admin-profile.php:209
+msgid "WooCommerce API Keys"
+msgstr ""
+
+#: includes/admin/class-wc-admin-profile.php:213
+msgid "Generate API Key"
+msgstr ""
+
+#: includes/admin/class-wc-admin-profile.php:215
+msgid "Consumer Key:"
+msgstr ""
+
+#: includes/admin/class-wc-admin-profile.php:216
+msgid "Consumer Secret:"
+msgstr ""
+
+#: includes/admin/class-wc-admin-profile.php:217
+msgid "Permissions:"
+msgstr "Cấp phép:"
+
+#: includes/admin/class-wc-admin-profile.php:221
+msgid "Revoke API Key"
+msgstr ""
+
+#: includes/admin/class-wc-admin-reports.php:45
+#: includes/admin/reports/class-wc-report-customer-list.php:248
+msgid "Orders"
+msgstr "Đơn hàng"
+
+#: includes/admin/class-wc-admin-reports.php:48
+msgid "Sales by date"
+msgstr "Lượt bán theo ngày"
+
+#: includes/admin/class-wc-admin-reports.php:54
+msgid "Sales by product"
+msgstr "Lượt bán theo sản phẩm"
+
+#: includes/admin/class-wc-admin-reports.php:60
+msgid "Sales by category"
+msgstr "Lượt bán theo danh mục"
+
+#: includes/admin/class-wc-admin-reports.php:66
+msgid "Coupons by date"
+msgstr "Mã giá giá theo ngày"
+
+#: includes/admin/class-wc-admin-reports.php:74
+#: includes/admin/reports/class-wc-report-customer-list.php:28
+msgid "Customers"
+msgstr "Khách hàng"
+
+#: includes/admin/class-wc-admin-reports.php:77
+msgid "Customers vs. Guests"
+msgstr "Khách hàng và Khách ghé thăm"
+
+#: includes/admin/class-wc-admin-reports.php:83
+msgid "Customer List"
+msgstr "Danh sách Khách hàng"
+
+#: includes/admin/class-wc-admin-reports.php:94
+msgid "Low in stock"
+msgstr "Kho còn ít"
+
+#: includes/admin/class-wc-admin-reports.php:106
+msgid "Most Stocked"
+msgstr "Kho còn nhiều"
+
+#: includes/admin/class-wc-admin-reports.php:117
+msgid "Taxes"
+msgstr "Thuế"
+
+#: includes/admin/class-wc-admin-reports.php:120
+msgid "Taxes by code"
+msgstr "Thuế theo mã"
+
+#: includes/admin/class-wc-admin-reports.php:126
+msgid "Taxes by date"
+msgstr "Thuế theo ngày"
+
+#: includes/admin/class-wc-admin-settings.php:57
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Thao thác không thành công. Hãy thử tải lại trang"
+
+#: includes/admin/class-wc-admin-settings.php:68
+msgid "Your settings have been saved."
+msgstr "Thiết lập của bạn đã được lưu"
+
+#: includes/admin/class-wc-admin-settings.php:126
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Thay đổi của bạn sẽ bị mất nếu bạn rời khỏi trang này"
+
+#: includes/admin/class-wc-admin-settings.php:519
+msgid ""
+"The settings of this image size have been disabled because its values are "
+"being overwritten by a filter."
+msgstr ""
+
+#: includes/admin/class-wc-admin-settings.php:528
+msgid "Hard Crop?"
+msgstr ""
+
+#: includes/admin/class-wc-admin-settings.php:555
+msgid "Select a page&hellip;"
+msgstr "Chọn một trang&hellip;"
+
+#: includes/admin/class-wc-admin-settings.php:578
+msgid "Choose a country&hellip;"
+msgstr "Chọn một quốc gia&hellip;"
+
+#: includes/admin/class-wc-admin-settings.php:603
+msgid "Choose countries&hellip;"
+msgstr "Chọn nhiều quốc gia&hellip;"
+
+#: includes/admin/class-wc-admin-settings.php:611
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:482
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: includes/admin/class-wc-admin-settings.php:611
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:482
+msgid "Select none"
+msgstr "Không chọn"
+
+#: includes/admin/class-wc-admin-status.php:50
+msgid "Product Transients Cleared"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:91
+msgid "%d Transients Rows Cleared"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:100
+msgid "Roles successfully reset"
+msgstr "Vai trò thiết lập lại thành công"
+
+#: includes/admin/class-wc-admin-status.php:112
+msgid "Terms successfully recounted"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:123
+msgid "Sessions successfully cleared"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:127
+msgid "All missing WooCommerce pages was installed successfully."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:135
+msgid "Tax rates successfully deleted"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:143
+msgid "Translation update message hidden successfully!"
+msgstr "Ẩn tin nhắn thông báo cập nhật thành công!"
+
+#: includes/admin/class-wc-admin-status.php:152
+msgid "There was an error calling %s::%s"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:155
+msgid "There was an error calling %s"
+msgstr "Có lỗi khi gọi %s"
+
+#: includes/admin/class-wc-admin-status.php:167
+#: includes/admin/class-wc-admin-status.php:170
+#: includes/admin/class-wc-admin-status.php:173
+msgid "Failed to install/update the translation:"
+msgstr "Thất bại khi cài đặt/cập nhật bản dịch:"
+
+#: includes/admin/class-wc-admin-status.php:167
+msgid "Seems you don't have permission to do this!"
+msgstr "Bạn dường như không được cấp quyền để thực hiện thao tác này!"
+
+#: includes/admin/class-wc-admin-status.php:170
+msgid ""
+"An authentication error occurred while updating the translation. Please try "
+"again or configure your %sUpgrade Constants%s."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:173
+msgid "Sorry but there is no translation available for your language =/"
+msgstr "Xin lỗi nhưng không có bản dịch phù hợp cho ngôn ngữ của bạn =/"
+
+#: includes/admin/class-wc-admin-status.php:180
+msgid "Translations installed/updated successfully!"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:187
+msgid "Your changes have been saved."
+msgstr "Những thay đổi của bạn đã được lưu"
+
+#: includes/admin/class-wc-admin-status.php:201
+msgid "WC Transients"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:202
+msgid "Clear transients"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:203
+msgid "This tool will clear the product/shop transients cache."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:206
+msgid "Expired Transients"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:207
+msgid "Clear expired transients"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:208
+msgid "This tool will clear ALL expired transients from WordPress."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:211
+msgid "Term counts"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:212
+msgid "Recount terms"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:213
+msgid ""
+"This tool will recount product terms - useful when changing your settings in"
+" a way which hides products from the catalog."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:216
+msgid "Capabilities"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:217
+msgid "Reset capabilities"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:218
+msgid ""
+"This tool will reset the admin, customer and shop_manager roles to default. "
+"Use this if your users cannot access all of the WooCommerce admin pages."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:221
+msgid "Customer Sessions"
+msgstr "Phiên khách hàng"
+
+#: includes/admin/class-wc-admin-status.php:222
+msgid "Clear all sessions"
+msgstr "Xóa tất cả các phiên hoạt động"
+
+#: includes/admin/class-wc-admin-status.php:223
+msgid ""
+"<strong class=\"red\">Warning:</strong> This tool will delete all customer "
+"session data from the database, including any current live carts."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:226
+#: includes/admin/views/html-notice-install.php:14
+msgid "Install WooCommerce Pages"
+msgstr "Cài đặt trang mặc định của WooCommerce"
+
+#: includes/admin/class-wc-admin-status.php:227
+msgid "Install pages"
+msgstr "Cài đặt trang"
+
+#: includes/admin/class-wc-admin-status.php:228
+msgid ""
+"<strong class=\"red\">Note:</strong> This tool will install all the missing "
+"WooCommerce pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:231
+msgid "Delete all WooCommerce tax rates"
+msgstr "Xóa toàn bộ mức thuế của WooCommerce"
+
+#: includes/admin/class-wc-admin-status.php:232
+msgid "Delete ALL tax rates"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:233
+msgid ""
+"<strong class=\"red\">Note:</strong> This option will delete ALL of your tax"
+" rates, use with caution."
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:239
+msgid "Translation Upgrade"
+msgstr "Cập nhật bản dịch"
+
+#: includes/admin/class-wc-admin-status.php:240
+msgid "Force Translation Upgrade"
+msgstr ""
+
+#: includes/admin/class-wc-admin-status.php:241
+msgid ""
+"<strong class=\"red\">Note:</strong> This option will force the translation "
+"upgrade for your language if a translation is available."
+msgstr ""
+
+#: includes/admin/class-wc-admin-taxonomies.php:93
+#: includes/admin/class-wc-admin-taxonomies.php:181
+msgid "Display type"
+msgstr "Kiểu hiển thị"
+
+#: includes/admin/class-wc-admin-taxonomies.php:96
+#: includes/admin/class-wc-admin-taxonomies.php:185
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:102
+#: includes/admin/settings/class-wc-settings-products.php:28
+#: includes/admin/views/html-admin-page-addons.php:27
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: includes/admin/class-wc-admin-taxonomies.php:97
+#: includes/admin/class-wc-admin-taxonomies.php:186
+msgid "Subcategories"
+msgstr "Danh mục con"
+
+#: includes/admin/class-wc-admin-taxonomies.php:98
+#: includes/admin/class-wc-admin-taxonomies.php:187
+msgid "Both"
+msgstr "Cả hai"
+
+#: includes/admin/class-wc-admin-taxonomies.php:102
+#: includes/admin/class-wc-admin-taxonomies.php:192
+#: includes/admin/class-wc-admin-taxonomies.php:332
+msgid "Thumbnail"
+msgstr "Hình thu nhỏ"
+
+#: includes/admin/class-wc-admin-taxonomies.php:106
+#: includes/admin/class-wc-admin-taxonomies.php:197
+msgid "Upload/Add image"
+msgstr "Tải lên/Thêm hình ảnh"
+
+#: includes/admin/class-wc-admin-taxonomies.php:107
+#: includes/admin/class-wc-admin-taxonomies.php:198
+msgid "Remove image"
+msgstr "Loại bỏ ảnh"
+
+#: includes/admin/class-wc-admin-taxonomies.php:132
+#: includes/admin/class-wc-admin-taxonomies.php:219
+msgid "Use image"
+msgstr "Sử dụng ảnh"
+
+#: includes/admin/class-wc-admin-taxonomies.php:277
+msgid ""
+"Product categories for your store can be managed here. To change the order "
+"of categories on the front-end you can drag and drop to sort them. To see "
+"more categories listed click the \"screen options\" link at the top of the "
+"page."
+msgstr ""
+
+#: includes/admin/class-wc-admin-taxonomies.php:287
+msgid ""
+"Shipping classes can be used to group products of similar type. These groups"
+" can then be used by certain shipping methods to provide different rates to "
+"different products."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:52
+msgid "Welcome to WooCommerce"
+msgstr "Chào mừng đến WooCommerce"
+
+#: includes/admin/class-wc-admin-welcome.php:207
+msgid "Welcome to WooCommerce %s"
+msgstr "Chào mừng đến WooCommerce %s"
+
+#: includes/admin/class-wc-admin-welcome.php:212
+msgid "Thanks, all done!"
+msgstr "Cảm ơn, mọi thứ đã hoàn tất!"
+
+#: includes/admin/class-wc-admin-welcome.php:214
+msgid "Thank you for updating to the latest version!"
+msgstr "Cảm ơn bạn đã cập nhật phiên bản mới nhất!"
+
+#: includes/admin/class-wc-admin-welcome.php:216
+msgid "Thanks for installing!"
+msgstr "Cảm ơn đã cài đặt"
+
+#: includes/admin/class-wc-admin-welcome.php:218
+msgid ""
+"%s WooCommerce %s is more powerful, stable and secure than ever before. We "
+"hope you enjoy using it."
+msgstr "%s WooCommerce %s thực sự mạnh mẽ, dễ sử dụng và bảo mật cao. Chúng tôi hy vọng bạn thích khi sử dụng nó."
+
+#: includes/admin/class-wc-admin-welcome.php:222
+msgid "Version %s"
+msgstr "Phiên bản %s"
+
+#: includes/admin/class-wc-admin-welcome.php:226
+msgid "Docs"
+msgstr "Tài liệu"
+
+#: includes/admin/class-wc-admin-welcome.php:233
+msgid "What's New"
+msgstr "Có gì mới"
+
+#: includes/admin/class-wc-admin-welcome.php:235
+msgid "Credits"
+msgstr "Tín dụng"
+
+#: includes/admin/class-wc-admin-welcome.php:237
+msgid "Translators"
+msgstr "Dịch giả"
+
+#: includes/admin/class-wc-admin-welcome.php:257
+msgid "Perform partial refunds on orders"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:258
+msgid ""
+"Store owners can now do partial refunds on orders; define the refund amount,"
+" qty, and optionally restore inventory. If the gateway supports it, the "
+"payment can be automatically refunded too!"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:262
+msgid "Updated order totals UI"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:263
+msgid ""
+"To support the partial refund functionality, the order items and totals "
+"panels have been combined. As a result we have a simpler, more user friendly"
+" order page."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:268
+msgid "WooCommerce REST API version 2"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:271
+msgid "Introducing PUT/POST/DELETE methods"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:272
+msgid ""
+"Update, delete and create orders, customers, products and coupons via the "
+"API."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:275
+msgid "Other enhancements"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:276
+msgid ""
+"Resources can now be ordered by any field you define for greater control "
+"over returned results. v2 also introduces an endpoint for getting product "
+"categories from your store."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:279
+msgid "Webhooks"
+msgstr "Webhooks"
+
+#: includes/admin/class-wc-admin-welcome.php:280
+msgid ""
+"Trigger webhooks during events such as when an order is created. Opens up "
+"all kinds of external integration opportunities."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:287
+msgid "Language pack downloader"
+msgstr "Trình tải ngôn ngữ"
+
+#: includes/admin/class-wc-admin-welcome.php:288
+msgid ""
+"Due to the size of PO and MO files, we have removed them from core and "
+"included our \"Language Pack Downloader\". International users can download "
+"and update their translation files easily from the dashboard."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:291
+msgid "Variation stock management"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:292
+msgid ""
+"You can now set stock management options (such as backorder support) at "
+"variation level giving much greater control over stock."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:295
+msgid "Improved Payment Gateways"
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:296
+msgid ""
+"The Payment Gateway API has been enhanced to support refunds and storing "
+"transaction IDs."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:302
+msgid "Go to WooCommerce Settings"
+msgstr "Đi tới Thiết lập WooCommerce"
+
+#: includes/admin/class-wc-admin-welcome.php:317
+msgid ""
+"WooCommerce is developed and maintained by a worldwide team of passionate "
+"individuals and backed by an awesome developer community. Want to see your "
+"name? <a href=\"%s\">Contribute to WooCommerce</a>."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:333
+msgid ""
+"WooCommerce has been kindly translated into several other languages thanks "
+"to our translation team. Want to see your name? <a href=\"%s\">Translate "
+"WooCommerce</a>."
+msgstr ""
+
+#: includes/admin/class-wc-admin-welcome.php:382
+msgid "View %s"
+msgstr "Xem %s"
+
+#: includes/admin/class-wc-admin.php:122
+msgid "HTML Email Template"
+msgstr "Mẫu HTML Email"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:104
+#: includes/admin/importers/class-wc-tax-rate-importer.php:195
+#: includes/admin/importers/class-wc-tax-rate-importer.php:235
+#: includes/admin/importers/class-wc-tax-rate-importer.php:250
+msgid "Sorry, there has been an error."
+msgstr "Xin lỗi, đã có một lỗi"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:105
+msgid "The file does not exist, please try again."
+msgstr "Tệp tin không tồn tại, hãy thử lại"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:196
+msgid "The CSV is invalid."
+msgstr "CSV không hợp lệ"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:207
+msgid ""
+"Import complete - imported <strong>%s</strong> tax rates and skipped "
+"<strong>%s</strong>."
+msgstr "Việc nhập hoàn tất - đã nhập <strong>%s</strong> tỉ lệ thuế và đã bỏ qua <strong>%s</strong>."
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:217
+msgid "All done!"
+msgstr "Hoàn tất!"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:217
+msgid "View Tax Rates"
+msgstr "Xem tỉ lệ thuế"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:265
+msgid "Import Tax Rates"
+msgstr "Nhập tỉ lệ thuế"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:281
+msgid ""
+"Hi there! Upload a CSV file containing tax rates to import the contents into"
+" your shop. Choose a .csv file to upload, then click \"Upload file and "
+"import\"."
+msgstr "Xin chào! Tải lên một tệp CSV mà chứa tỉ lệ thuế để nhập nội dung vào shop của bạn. Chọn tệp .csv để upload, sau đó kích vào \"Upload file and import\"."
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:283
+msgid ""
+"Tax rates need to be defined with columns in a specific order (10 columns). "
+"<a href=\"%s\">Click here to download a sample</a>."
+msgstr "Tỉ lệ thuế cần được định nghĩa với các cột theo một thứ tự cho trước (10 cột). <a href=\"%s\"> Kích vào đây để tải mẫu về</a>"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:291
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr "Trước khi bạn có thể tải lên tệp chứa nội dung nhập, bạn sẽ cần phải sửa các lỗi dưới đây:"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:300
+msgid "Choose a file from your computer:"
+msgstr "Chọn một tệp từ máy tính của bạn"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:306
+msgid "Maximum size: %s"
+msgstr "Kích thước tối đa: %s"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:311
+msgid "OR enter path to file:"
+msgstr "HOẶC nhập đường dẫn của tệp"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:318
+msgid "Delimiter"
+msgstr "Dấu phân cách"
+
+#: includes/admin/importers/class-wc-tax-rate-importer.php:324
+msgid "Upload file and import"
+msgstr "Tải lên và nhập"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:39
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:91
+#: includes/admin/settings/class-wc-settings-general.php:28
+msgid "General"
+msgstr "Chung"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:44
+msgid "Usage Restriction"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:49
+msgid "Usage Limits"
+msgstr "Các giới hạn sử dụng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:65
+msgid "Discount type"
+msgstr "Kiểu giảm giá"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:68
+msgid "Value of the coupon."
+msgstr "Giá trị của phiếu giảm giá"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:71
+msgid "Allow free shipping"
+msgstr "Cho phép giao miễn phí"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:71
+msgid ""
+"Check this box if the coupon grants free shipping. The <a href=\"%s\">free "
+"shipping method</a> must be enabled with the \"must use coupon\" setting."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:74
+msgid "Apply before tax"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:74
+msgid ""
+"Check this box if the coupon should be applied before calculating cart tax."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:77
+msgid "Coupon expiry date"
+msgstr "Ngày hết hạn phiếu giảm giá"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:87
+msgid "Minimum spend"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:87
+msgid "No minimum"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:87
+msgid ""
+"This field allows you to set the minimum subtotal needed to use the coupon."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:90
+msgid "Maximum spend"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:90
+msgid "No maximum"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:90
+msgid ""
+"This field allows you to set the maximum subtotal allowed when using the "
+"coupon."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:93
+msgid "Individual use only"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:93
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:96
+msgid "Exclude sale items"
+msgstr "Không bao gồm các sản phẩm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:96
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are no sale items in the cart."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:103
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:616
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:636
+#: includes/admin/meta-boxes/views/html-order-items.php:295
+#: includes/admin/reports/class-wc-report-sales-by-product.php:181
+msgid "Search for a product&hellip;"
+msgstr "Tìm kiếm sản phẩm&hellip;"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:118
+msgid ""
+"Products which need to be in the cart to use this coupon or, for \"Product "
+"Discounts\", which products are discounted."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:123
+msgid "Exclude products"
+msgstr "Không gồm những sản phẩm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:124
+msgid "Search for a product…"
+msgstr "Tìm kiếm một sản phẩm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:140
+msgid ""
+"Products which must not be in the cart to use this coupon or, for \"Product "
+"Discounts\", which products are not discounted."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:147
+msgid "Product categories"
+msgstr "Danh mục sản phẩm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:148
+msgid "Any category"
+msgstr "Bất kỳ danh mục nào"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:158
+msgid ""
+"A product must be in this category for the coupon to remain valid or, for "
+"\"Product Discounts\", products in these categories will be discounted."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:163
+msgid "Exclude categories"
+msgstr "Không gồm những danh mục"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:164
+msgid "No categories"
+msgstr "Không có danh mục nào"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:174
+msgid ""
+"Product must not be in this category for the coupon to remain valid or, for "
+"\"Product Discounts\", products in these categories will not be discounted."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:180
+msgid "Email restrictions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:180
+msgid "No restrictions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:180
+msgid ""
+"List of emails to check against the customer's billing email when an order "
+"is placed. Separate email addresses with commas."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:194
+msgid "Usage limit per coupon"
+msgstr "Giới hạn sử dụng cho mỗi phiếu giảm giá"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:194
+msgid "How many times this coupon can be used before it is void."
+msgstr "Mỗi phiếu giảm giá được sử dụng bao nhiêu lần trước khi hết hạn."
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:200
+msgid "Limit usage to X items"
+msgstr "Giới hạn sử dụng đến X mục"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:200
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discounts. Leave blank to apply to all qualifying items in cart."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:206
+msgid "Usage limit per user"
+msgstr "Giới hạn sử dụng trên người dùng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:206
+msgid ""
+"How many times this coupon can be used by an invidual user. Uses billing "
+"email for guests, and user ID for logged in users."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:243
+msgid ""
+"Coupon code already exists - customers will use the latest coupon with this "
+"code."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:42
+msgid "Resend order emails"
+msgstr "Gửi lại email đặt hàng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:58
+msgid "Generate download permissions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:65
+#: includes/admin/meta-boxes/views/html-order-items.php:213
+msgid "Apply"
+msgstr "Chấp nhận"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:76
+msgid "Move to Trash"
+msgstr "Chuyển tới thùng rác"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:82
+msgid "Save %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:82
+msgid "Save/update the %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:43
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:90
+msgid "First Name"
+msgstr "Họ"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:47
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:94
+msgid "Last Name"
+msgstr "Tên"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:74
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:121
+msgid "Select a country&hellip;"
+msgstr "Chọn quốc gia&hellip;"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:84
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:160
+msgid "Order %s details"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:164
+msgid "Payment via %s"
+msgstr "Thanh toán qua %s"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:177
+msgid "Customer IP"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:183
+msgid "General Details"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:185
+msgid "Order date:"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:186
+msgid "h"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:186
+#: includes/admin/settings/class-wc-settings-products.php:315
+msgid "m"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:189
+msgid "Order status:"
+msgstr "Tình trạng đơn hàng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:200
+msgid "Customer:"
+msgstr "Khách hàng:"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:215
+msgid "Billing Details"
+msgstr "Thông tin thanh toán"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:221
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:223
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:304
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:306
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:223
+msgid "No billing address set."
+msgstr "Chưa thiết lập địa chỉ thanh toán."
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:241
+msgid "Load billing address"
+msgstr "Tải địa chỉ thanh toán"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:264
+msgid "Payment Method:"
+msgstr "Phương thức thanh toán:"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:266
+#: includes/admin/meta-boxes/views/html-order-shipping.php:21
+#: includes/admin/views/html-admin-page-status-report.php:219
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:280
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:282
+#: includes/admin/meta-boxes/views/html-order-shipping.php:37
+#: includes/admin/meta-boxes/views/html-order-shipping.php:39
+msgid "Other"
+msgstr "Khác"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:289
+msgid "Transaction ID"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:298
+msgid "Shipping Details"
+msgstr "Chi tiết giao hàng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:306
+msgid "No shipping address set."
+msgstr "Chưa thiết lập địa chỉ nhận hàng."
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:324
+msgid "Customer Note"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:330
+msgid "Load shipping address"
+msgstr "Tải địa chỉ nhận hàng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:330
+msgid "Copy from billing"
+msgstr "Sao chép từ địa chỉ thanh toán"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:353
+msgid "Customer Note:"
+msgstr "Ghi chú của khách hàng:"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:354
+msgid "Customer's notes about the order"
+msgstr "Những ghi chú của khách hàng về đơn hàng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-downloads.php:54
+msgid "File %d"
+msgstr "File %d"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-downloads.php:67
+msgid "Search for a downloadable product&hellip;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-downloads.php:68
+msgid "Grant Access"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:52
+msgid "added on %1$s at %2$s"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:53
+msgid "by %s"
+msgstr "bởi %s"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:54
+msgid "Delete note"
+msgstr "Xóa ghi chú"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:61
+msgid "There are no notes yet."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:67
+msgid "Add note"
+msgstr "Thêm ghi chú"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:67
+msgid ""
+"Add a note for your reference, or add a customer note (the user will be "
+"notified)."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:73
+msgid "Customer note"
+msgstr "Khách hàng ghi chú"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:74
+msgid "Private note"
+msgstr "Ghi chú cá nhân"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:76
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:592
+#: includes/admin/meta-boxes/views/html-order-items.php:301
+#: includes/admin/meta-boxes/views/html-order-items.php:356
+msgid "Add"
+msgstr "Thêm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:45
+msgid "Product Type"
+msgstr "Loại sản phẩm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:58
+msgid "Virtual products are intangible and aren't shipped."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:65
+msgid "Downloadable products give access to a file upon purchase."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:96
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:832
+#: includes/admin/settings/class-wc-settings-products.php:45
+msgid "Inventory"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:101
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:836
+#: includes/admin/meta-boxes/views/html-order-items.php:140
+#: includes/admin/meta-boxes/views/html-order-shipping.php:15
+#: includes/admin/settings/class-wc-settings-shipping.php:27
+#: includes/admin/settings/class-wc-settings-tax.php:277
+#: includes/admin/settings/class-wc-settings-tax.php:394
+#: includes/admin/views/html-admin-page-addons.php:25
+msgid "Shipping"
+msgstr "Giao nhận"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:106
+msgid "Linked Products"
+msgstr "Các sản phẩm được kết nối"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:116
+msgid "Variations"
+msgstr "Các biến thể"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:121
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:142
+msgid "Stock Keeping Unit"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:142
+msgid ""
+"SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
+"product and service that can be purchased."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:154
+msgid "Product URL"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:154
+msgid "Enter the external URL to the product."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:157
+msgid "Button text"
+msgstr "Chữ của nút bấm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:157
+msgid "This text will be shown on the button linking to the external product."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:164
+msgid "Regular Price"
+msgstr "Giá bán chuẩn"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:167
+msgid "Sale Price"
+msgstr "Giá khuyến mãi"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:167
+#: includes/admin/meta-boxes/views/html-variation-admin.php:71
+msgid "Schedule"
+msgstr "Lên lịch"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:174
+msgid "Sale Price Dates"
+msgstr "Ngày bán"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:188
+#: includes/admin/meta-boxes/views/html-variation-admin.php:169
+msgid "Downloadable Files"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:193
+#: includes/admin/meta-boxes/views/html-variation-admin.php:173
+msgid "This is the name of the download shown to the customer."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:194
+#: includes/admin/meta-boxes/views/html-variation-admin.php:174
+msgid "File URL"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:194
+#: includes/admin/meta-boxes/views/html-variation-admin.php:174
+msgid ""
+"This is the URL or absolute path to the file which customers will get access"
+" to."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:220
+#: includes/admin/meta-boxes/views/html-variation-admin.php:204
+msgid "Add File"
+msgstr "Thêm tệp"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:229
+msgid "Download Limit"
+msgstr "Giới hạn tải về"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:229
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:23
+#: includes/admin/meta-boxes/views/html-variation-admin.php:216
+#: includes/admin/meta-boxes/views/html-variation-admin.php:222
+msgid "Unlimited"
+msgstr "Không giới hạn"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:229
+#: includes/admin/meta-boxes/views/html-variation-admin.php:215
+msgid "Leave blank for unlimited re-downloads."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:235
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:844
+msgid "Download Expiry"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:235
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:27
+msgid "Never"
+msgstr "Chưa bao giờ"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:235
+#: includes/admin/meta-boxes/views/html-variation-admin.php:221
+msgid ""
+"Enter the number of days before a download link expires, or leave blank."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:241
+msgid "Download Type"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:241
+msgid "Choose a download type - this controls the <a href=\"%s\">schema</a>."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:242
+msgid "Standard Product"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:243
+msgid "Application/Software"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:244
+msgid "Music"
+msgstr "Nhạc"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:256
+#: includes/admin/views/html-bulk-edit-product.php:69
+#: includes/admin/views/html-quick-edit-product.php:49
+msgid "Tax Status"
+msgstr "Tình trạng thuế"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:257
+#: includes/admin/views/html-bulk-edit-product.php:75
+#: includes/admin/views/html-quick-edit-product.php:54
+msgid "Taxable"
+msgstr "Thuế"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:258
+#: includes/admin/views/html-bulk-edit-product.php:76
+#: includes/admin/views/html-quick-edit-product.php:55
+msgid "Shipping only"
+msgstr "Chỉ giao hàng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:264
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:781
+#: includes/admin/meta-boxes/views/html-order-items.php:21
+#: includes/admin/settings/class-wc-settings-tax.php:129
+#: includes/admin/settings/class-wc-settings-tax.php:254
+#: includes/admin/views/html-bulk-edit-product.php:94
+#: includes/admin/views/html-quick-edit-product.php:72
+msgid "Standard"
+msgstr "Chuẩn"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:273
+#: includes/admin/settings/class-wc-settings-tax.php:394
+#: includes/admin/views/html-bulk-edit-product.php:88
+#: includes/admin/views/html-quick-edit-product.php:67
+msgid "Tax Class"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:294
+#: includes/admin/meta-boxes/views/html-variation-admin.php:243
+#: includes/admin/views/html-bulk-edit-product.php:218
+#: includes/admin/views/html-quick-edit-product.php:164
+msgid "Manage stock?"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:294
+msgid "Enable stock management at product level"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:303
+#: includes/admin/views/html-bulk-edit-product.php:237
+#: includes/admin/views/html-bulk-edit-product.php:253
+#: includes/admin/views/html-quick-edit-product.php:168
+msgid "Stock Qty"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:305
+msgid ""
+"Stock quantity. If this is a variable product this value will be used to "
+"control stock for all variations, unless you define stock at variation "
+"level."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:314
+#: includes/admin/meta-boxes/views/html-variation-admin.php:94
+msgid "Allow Backorders?"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:315
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:791
+#: includes/admin/views/html-bulk-edit-product.php:264
+#: includes/admin/views/html-quick-edit-product.php:183
+msgid "Do not allow"
+msgstr "Không cho phép"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:316
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:792
+#: includes/admin/views/html-bulk-edit-product.php:265
+#: includes/admin/views/html-quick-edit-product.php:184
+msgid "Allow, but notify customer"
+msgstr "Cho phép, nhưng phải thông báo cho khách hàng."
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:317
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:793
+#: includes/admin/views/html-bulk-edit-product.php:266
+#: includes/admin/views/html-quick-edit-product.php:185
+msgid "Allow"
+msgstr "Cho phép"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:318
+msgid ""
+"If managing stock, this controls whether or not backorders are allowed. If "
+"enabled, stock quantity can go below 0."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:327
+#: includes/admin/meta-boxes/views/html-variation-admin.php:106
+#: includes/admin/reports/class-wc-report-stock.php:158
+msgid "Stock status"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:330
+#: includes/admin/meta-boxes/views/html-variation-admin.php:106
+msgid ""
+"Controls whether or not the product is listed as \"in stock\" or \"out of "
+"stock\" on the frontend."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:339
+msgid "Sold Individually"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:339
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:358
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:840
+#: includes/admin/meta-boxes/views/html-variation-admin.php:122
+#: includes/admin/views/html-bulk-edit-product.php:114
+#: includes/admin/views/html-quick-edit-product.php:95
+msgid "Weight"
+msgstr "Trọng lượng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:358
+msgid "Weight in decimal form"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:364
+msgid "Dimensions"
+msgstr "Kích thước"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:366
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:837
+#: includes/admin/views/html-bulk-edit-product.php:154
+#: includes/admin/views/html-quick-edit-product.php:108
+msgid "Length"
+msgstr "Dài"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:367
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:838
+#: includes/admin/views/html-bulk-edit-product.php:155
+#: includes/admin/views/html-quick-edit-product.php:109
+msgid "Width"
+msgstr "Rộng"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:368
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:839
+#: includes/admin/views/html-bulk-edit-product.php:156
+#: includes/admin/views/html-quick-edit-product.php:110
+msgid "Height"
+msgstr "Cao"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:370
+msgid "LxWxH in decimal form"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:391
+msgid "No shipping class"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:397
+msgid "Shipping class"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:397
+msgid ""
+"Shipping classes are used by certain shipping methods to group similar "
+"products."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:409
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:815
+msgid "Close all"
+msgstr "Đóng tất cả"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:409
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:815
+msgid "Expand all"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:470
+msgid "Select terms"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:484
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:497
+msgid "Pipe (|) separate terms"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:594
+msgid "Custom product attribute"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:607
+msgid "Save attributes"
+msgstr "Lưu thuộc tính"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:615
+msgid "Up-Sells"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:633
+msgid ""
+"Up-sells are products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or"
+" more expensive."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:635
+msgid "Cross-Sells"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:653
+msgid ""
+"Cross-sells are products which you promote in the cart, based on the current"
+" product."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:663
+msgid "Choose a grouped product&hellip;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:699
+msgid "Grouping"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:699
+msgid "Set this option to make this product part of a grouped product."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:719
+msgid "Purchase Note"
+msgstr "Ghi chú thanh toán"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:719
+msgid "Enter an optional note to send the customer after purchase."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:726
+msgid "Menu order"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:726
+msgid "Custom ordering position."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:734
+msgid "Enable reviews"
+msgstr "Bật đánh giá"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:807
+msgid ""
+"Before adding variations, add and save some attributes on the "
+"<strong>Attributes</strong> tab."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:809
+msgid "Learn more"
+msgstr "Tìm hiểu thêm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:817
+msgid "Choose a field to bulk edit&hellip;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:819
+msgid "Toggle &quot;Enabled&quot;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:820
+msgid "Toggle &quot;Downloadable&quot;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:821
+msgid "Toggle &quot;Virtual&quot;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:822
+msgid "Delete all variations"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:824
+msgid "Pricing"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:825
+msgid "Prices"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:826
+msgid "Prices increase by (fixed amount or %)"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:827
+msgid "Prices decrease by (fixed amount or %)"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:828
+msgid "Sale prices"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:829
+msgid "Sale prices increase by (fixed amount or %)"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:830
+msgid "Sale prices decrease by (fixed amount or %)"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:833
+msgid "Toggle &quot;Manage stock&quot;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:842
+msgid "Downloadable products"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:843
+msgid "Download limit"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:848
+#: includes/admin/views/html-report-by-date.php:37
+msgid "Go"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:963
+msgid "Add Variation"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:965
+msgid "Link all variations"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:967
+msgid "Defaults"
+msgstr "Chuẩn"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:967
+msgid "These are the attributes that will be pre-selected on the frontend."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:982
+msgid "No default"
+msgstr "Chưa chọn mặc định"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1101
+msgid "Product SKU must be unique."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1506
+msgid "Variation #%s of %s"
+msgstr "Biến thể #%s của %s"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1550
+msgid "Variation SKU must be unique."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:46
+#: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:58
+msgid "Delete image"
+msgstr "Xóa ảnh"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:58
+msgid "Add Images to Product Gallery"
+msgstr "Thêm ảnh vào thư viện"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:58
+msgid "Add to gallery"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:58
+msgid "Add product gallery images"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:10
+msgid "Revoke Access"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:13
+msgid "%s: %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:13
+msgid "Downloaded %s time"
+msgid_plural "Downloaded %s times"
+msgstr[0] ""
+
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:20
+msgid "Downloads Remaining"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-download-permission.php:26
+msgid "Access Expires"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-fee.php:15
+msgid "Fee"
+msgstr "Phí"
+
+#: includes/admin/meta-boxes/views/html-order-fee.php:18
+msgid "Fee Name"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:14
+msgid "Product ID:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:17
+#: includes/admin/meta-boxes/views/html-order-item.php:19
+msgid "Variation ID:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:19
+msgid "No longer exists"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:23
+msgid "Product SKU:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:146
+msgid "Add&nbsp;meta"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:196
+#: includes/admin/meta-boxes/views/html-order-item.php:239
+msgid "After pre-tax discounts."
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:199
+#: includes/admin/meta-boxes/views/html-order-item.php:242
+msgid "Before pre-tax discounts."
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:51
+msgid "Item"
+msgstr "Sản phẩm"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:55
+msgid "Qty"
+msgstr "SL"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:63
+#: includes/admin/meta-boxes/views/html-order-items.php:64
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:124
+#: includes/admin/settings/class-wc-settings-tax.php:27
+#: includes/admin/settings/class-wc-settings-tax.php:563
+#: includes/admin/settings/class-wc-settings-tax.php:666
+msgid "Tax"
+msgstr "Thuế"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:140
+msgid "This is the shipping and handling total costs for the order."
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:160
+msgid "Order Discount"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:160
+msgid "This is the total discount applied after tax."
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:174
+msgid "Order Total"
+msgstr "Tổng cộng"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:188
+msgid "Refunded"
+msgstr "Đã hoàn lại tiền"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:204
+msgid "Delete selected line item(s)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:207
+msgid "Stock Actions"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:208
+msgid "Reduce line item stock"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:209
+msgid "Increase line item stock"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:217
+msgid "Add line item(s)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:219
+msgid "To edit this order change the status back to \"Pending\""
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:219
+msgid "This order has been paid for and is no longer editable"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:222
+msgid "Add Tax"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:225
+#: includes/admin/meta-boxes/views/html-order-refund.php:16
+msgid "Refund"
+msgstr "Hoàn tiền"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:228
+msgid "Calculate Taxes"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:229
+msgid "Calculate Total"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:234
+msgid "Add product(s)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:235
+msgid "Add fee"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:236
+msgid "Add shipping cost"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:238
+msgid "Save"
+msgstr "Lưu"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:248
+msgid "Restock refunded items"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:252
+msgid "Amount already refunded"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:256
+msgid "Total available to refund"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:260
+#: includes/admin/reports/class-wc-report-sales-by-date.php:446
+msgid "Refund amount"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:267
+msgid "Reason for refund (optional)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:279
+msgid "Refund manually"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:291
+msgid "Add products"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:315
+msgid "Add tax"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:323
+msgid "Rate name"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:324
+msgid "Tax class"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:325
+msgid "Rate code"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:326
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "Rate %"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:347
+msgid "Or, enter tax rate ID:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:348
+msgid "Optional"
+msgstr "Tùy chọn thêm"
+
+#: includes/admin/meta-boxes/views/html-order-refund.php:19
+msgid "ID: "
+msgstr "ID:"
+
+#: includes/admin/meta-boxes/views/html-order-shipping.php:18
+msgid "Shipping Name"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-shipping.php:20
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-product-download.php:3
+#: includes/admin/meta-boxes/views/html-product-variation-download.php:2
+msgid "File Name"
+msgstr "Tên tệp"
+
+#: includes/admin/meta-boxes/views/html-product-download.php:4
+#: includes/admin/meta-boxes/views/html-product-variation-download.php:3
+msgid "http://"
+msgstr "http://"
+
+#: includes/admin/meta-boxes/views/html-product-download.php:5
+#: includes/admin/meta-boxes/views/html-product-variation-download.php:4
+msgid "Choose file"
+msgstr "Chọn tệp"
+
+#: includes/admin/meta-boxes/views/html-product-download.php:5
+#: includes/admin/meta-boxes/views/html-product-variation-download.php:4
+msgid "Insert file URL"
+msgstr "Nhập URL tệp"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:25
+msgid "Any"
+msgstr "Bất kỳ"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:57
+msgid ""
+"Enter a SKU for this variation or leave blank to use the parent product SKU."
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:67
+msgid "Regular Price:"
+msgstr "Giá bán chuẩn:"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:68
+msgid "Variation price (required)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:71
+msgid "Sale Price:"
+msgstr "Giá khuyến mãi:"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:71
+msgid "Cancel schedule"
+msgstr "Hủy lên lịch"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:78
+msgid "Sale start date:"
+msgstr "Ngày bắt đầu bán:"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:82
+msgid "Sale end date:"
+msgstr "Ngày kết thúc bán:"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:90
+msgid "Stock Qty:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:90
+msgid ""
+"Enter a quantity to enable stock management at variation level, or leave "
+"blank to use the parent product's options."
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:122
+msgid ""
+"Enter a weight for this variation or leave blank to use the parent product "
+"weight."
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:130
+msgid "Dimensions (L&times;W&times;H)"
+msgstr "Kích cỡ(D&times;R&times;C)"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:141
+msgid "Shipping class:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:145
+#: includes/admin/meta-boxes/views/html-variation-admin.php:158
+msgid "Same as parent"
+msgstr "Tương tự bản gốc"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:156
+msgid "Tax class:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:215
+msgid "Download Limit:"
+msgstr "Giới hạn tải về:"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:221
+msgid "Download Expiry:"
+msgstr "Hết hạn tải về:"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:235
+#: includes/admin/settings/class-wc-settings-checkout.php:279
+#: includes/admin/settings/class-wc-settings-shipping.php:227
+#: includes/admin/views/html-admin-page-status-tools.php:37
+#: includes/admin/views/html-admin-page-status-tools.php:48
+#: includes/admin/views/html-admin-page-status-tools.php:59
+msgid "Enabled"
+msgstr "Bật"
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:237
+msgid ""
+"Enable this option if access is given to a downloadable file upon purchase "
+"of a product"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:239
+msgid ""
+"Enable this option if a product is not shipped or there is no shipping cost"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-variation-admin.php:243
+msgid "Enable this option to enable stock management at variation level"
+msgstr ""
+
+#: includes/admin/reports/class-wc-admin-report.php:443
+msgid "Sold %s worth in the last %d days"
+msgstr ""
+
+#: includes/admin/reports/class-wc-admin-report.php:445
+msgid "Sold 1 item in the last %d days"
+msgid_plural "Sold %d items in the last %d days"
+msgstr[0] ""
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:91
+msgid "%s discounts in total"
+msgstr "giảm giá %s trong tổng đơn hàng"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:97
+msgid "%s coupons used in total"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:111
+#: includes/admin/reports/class-wc-report-customers.php:145
+#: includes/admin/reports/class-wc-report-sales-by-category.php:86
+#: includes/admin/reports/class-wc-report-sales-by-date.php:185
+#: includes/admin/reports/class-wc-report-sales-by-product.php:105
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:47
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:47
+msgid "Year"
+msgstr "Năm"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:112
+#: includes/admin/reports/class-wc-report-customers.php:146
+#: includes/admin/reports/class-wc-report-sales-by-category.php:87
+#: includes/admin/reports/class-wc-report-sales-by-date.php:186
+#: includes/admin/reports/class-wc-report-sales-by-product.php:106
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:48
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:48
+msgid "Last Month"
+msgstr "Tháng trước"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:113
+#: includes/admin/reports/class-wc-report-customers.php:147
+#: includes/admin/reports/class-wc-report-sales-by-category.php:88
+#: includes/admin/reports/class-wc-report-sales-by-date.php:187
+#: includes/admin/reports/class-wc-report-sales-by-product.php:107
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:49
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:49
+msgid "This Month"
+msgstr "Tháng này"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:114
+#: includes/admin/reports/class-wc-report-customers.php:148
+#: includes/admin/reports/class-wc-report-sales-by-category.php:89
+#: includes/admin/reports/class-wc-report-sales-by-date.php:188
+#: includes/admin/reports/class-wc-report-sales-by-product.php:108
+msgid "Last 7 Days"
+msgstr "7 ngày qua"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:155
+msgid "Filter by coupon"
+msgstr "Lọc bởi phiếu giảm giá"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:183
+msgid "Choose coupons&hellip;"
+msgstr "Chọn phiếu giảm giá&hellip;"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:184
+msgid "All coupons"
+msgstr "Tất cả mã giảm giá"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:191
+#: includes/admin/reports/class-wc-report-sales-by-category.php:198
+#: includes/admin/reports/class-wc-report-sales-by-product.php:182
+msgid "Show"
+msgstr "Hiển thị"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:204
+msgid "No used coupons found"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:209
+msgid "Most Popular"
+msgstr "Phổ biến nhất"
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:251
+#: includes/admin/reports/class-wc-report-coupon-usage.php:299
+msgid "No coupons found in range"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:256
+msgid "Most Discount"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:342
+#: includes/admin/reports/class-wc-report-customers.php:212
+#: includes/admin/reports/class-wc-report-sales-by-category.php:243
+#: includes/admin/reports/class-wc-report-sales-by-date.php:228
+#: includes/admin/reports/class-wc-report-sales-by-product.php:332
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:36
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:36
+#: includes/admin/settings/class-wc-settings-tax.php:365
+msgid "Export CSV"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:448
+msgid "Number of coupons used"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-coupon-usage.php:456
+msgid "Discount amount"
+msgstr "Mức giảm giá"
+
+#: includes/admin/reports/class-wc-report-customer-list.php:27
+msgid "Customer"
+msgstr "Khách hàng"
+
+#: includes/admin/reports/class-wc-report-customer-list.php:37
+msgid "No customers found."
+msgstr "Không tìm thấy khách hàng nào."
+
+#: includes/admin/reports/class-wc-report-customer-list.php:51
+msgid "%s previous order linked"
+msgid_plural "%s previous orders linked"
+msgstr[0] ""
+
+#: includes/admin/reports/class-wc-report-customer-list.php:56
+msgid "Search customers"
+msgstr "Tìm kiếm khách hàng"
+
+#: includes/admin/reports/class-wc-report-customer-list.php:195
+msgid "View orders"
+msgstr "Xem đơn hàng"
+
+#: includes/admin/reports/class-wc-report-customer-list.php:221
+msgid "Link previous orders"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customer-list.php:244
+msgid "Name (Last, First)"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customer-list.php:245
+msgid "Username"
+msgstr "Tên tài khoản"
+
+#: includes/admin/reports/class-wc-report-customer-list.php:247
+msgid "Location"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customer-list.php:249
+msgid "Spent"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customer-list.php:250
+msgid "Last order"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:23
+msgid "%s signups in this period"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:91
+msgid "Customer Sales"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:92
+msgid "Guest Sales"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:101
+#: includes/admin/reports/class-wc-report-customers.php:300
+msgid "Customer Orders"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:106
+#: includes/admin/reports/class-wc-report-customers.php:310
+msgid "Guest Orders"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:125
+msgid "orders"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:306
+msgid "customer orders"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:316
+msgid "guest orders"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:320
+msgid "Signups"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-customers.php:327
+msgid "new users"
+msgstr "người sử dụng mới"
+
+#: includes/admin/reports/class-wc-report-low-in-stock.php:25
+msgid "No low in stock products found."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-out-of-stock.php:25
+msgid "No out of stock products found."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-category.php:69
+msgid "%s sales in %s"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-category.php:182
+msgid "Select categories&hellip;"
+msgstr "Chọn danh mục&hellip;"
+
+#: includes/admin/reports/class-wc-report-sales-by-category.php:196
+msgid "None"
+msgstr "Trống"
+
+#: includes/admin/reports/class-wc-report-sales-by-category.php:197
+msgid "All"
+msgstr "Tất cả"
+
+#: includes/admin/reports/class-wc-report-sales-by-category.php:259
+msgid "&larr; Choose a category to view stats"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:126
+msgid "%s average daily sales"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:130
+msgid "%s average monthly sales"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:135
+msgid "%s sales in this period"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:147
+msgid "%s orders placed"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:153
+msgid "%s items purchased"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:159
+msgid "%s in refunds"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:165
+msgid "%s charged for shipping"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:171
+msgid "%s worth of coupons used"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:410
+#: includes/admin/reports/class-wc-report-sales-by-product.php:446
+msgid "Number of items sold"
+msgstr "Số sản phẩm đã bán"
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:418
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:126
+msgid "Number of orders"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:426
+msgid "Average sales amount"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:456
+msgid "Shipping amount"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-date.php:466
+#: includes/admin/reports/class-wc-report-sales-by-product.php:454
+msgid "Sales amount"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:85
+msgid "%s sales for the selected items"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:91
+msgid "%s purchases for the selected items"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:137
+msgid "Showing reports for:"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:169
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:177
+msgid "Product Search"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:214
+msgid "Top Sellers"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:250
+#: includes/admin/reports/class-wc-report-sales-by-product.php:290
+msgid "No products found in range"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:255
+msgid "Top Earners"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-sales-by-product.php:348
+msgid "&larr; Choose a product to view stats"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-stock.php:39
+msgid "No products found."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-stock.php:141
+msgid "product"
+msgstr "sản phẩm"
+
+#: includes/admin/reports/class-wc-report-stock.php:156
+msgid "Parent"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-stock.php:157
+msgid "Units in stock"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:125
+msgid "Rate"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:127
+msgid "Tax Amount"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:127
+msgid "This is the sum of the \"Tax Rows\" tax amount within your orders."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:128
+msgid "Shipping Tax Amount"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:128
+msgid ""
+"This is the sum of the \"Tax Rows\" shipping tax amount within your orders."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:129
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:119
+msgid "Total Tax"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:129
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:119
+msgid "This is the total tax for the rate (shipping tax + product tax)."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-code.php:182
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:164
+msgid "No taxes found in this period"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:115
+msgid "Period"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:116
+msgid "Orders/refunds"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:117
+msgid "Total Sales"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:117
+msgid "This is the sum of the 'Order Total' field within your orders."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:118
+msgid "Total Shipping"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:118
+msgid "This is the sum of the 'Shipping Total' field within your orders."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:120
+msgid "Net profit"
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:120
+msgid "Total sales minus shipping and tax."
+msgstr ""
+
+#: includes/admin/reports/class-wc-report-taxes-by-date.php:153
+msgid "Totals"
+msgstr "Tổng"
+
+#: includes/admin/settings/class-wc-settings-accounts.php:28
+msgid "Accounts"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:43
+msgid "Account Pages"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:43
+msgid ""
+"These pages need to be set so that WooCommerce knows where to send users to "
+"access account related functionality."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:46
+msgid "My Account Page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:47
+#: includes/admin/settings/class-wc-settings-checkout.php:117
+#: includes/admin/settings/class-wc-settings-checkout.php:128
+msgid "Page contents:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:58
+msgid "My Account Endpoints"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:58
+msgid ""
+"Endpoints are appended to your page URLs to handle specific actions on the "
+"accounts pages. They should be unique."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:61
+msgid "View Order"
+msgstr "Xem đơn hàng"
+
+#: includes/admin/settings/class-wc-settings-accounts.php:62
+msgid "Endpoint for the My Account &rarr; View Order page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:70
+msgid "Edit Account"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:71
+msgid "Endpoint for the My Account &rarr; Edit Account page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:79
+msgid "Edit Address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:80
+msgid "Endpoint for the My Account &rarr; Edit Address page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:88
+msgid "Lost Password"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:89
+msgid "Endpoint for the My Account &rarr; Lost Password page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:97
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: includes/admin/settings/class-wc-settings-accounts.php:98
+msgid ""
+"Endpoint for the triggering logout. You can add this to your menus via a "
+"custom link: yoursite.com/?customer-logout=true"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:107
+msgid "Registration Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:110
+msgid "Enable Registration"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:111
+msgid "Enable registration on the \"Checkout\" page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:120
+msgid "Enable registration on the \"My Account\" page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:129
+msgid "Display returning customer login reminder on the \"Checkout\" page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:138
+msgid "Account Creation"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:139
+msgid "Automatically generate username from customer email"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-accounts.php:148
+msgid "Automatically generate customer password"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:45
+msgid "Checkout Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:69
+msgid "Checkout Process"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:72
+msgid "Coupons"
+msgstr "Phiếu giảm giá"
+
+#: includes/admin/settings/class-wc-settings-checkout.php:73
+msgid "Enable the use of coupons"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:77
+msgid "Coupons can be applied from the cart and checkout pages."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:83
+msgid "Enable guest checkout"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:84
+msgid "Allows customers to checkout without creating an account."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:93
+msgid "Force secure checkout"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:99
+msgid ""
+"Force SSL (HTTPS) on the checkout pages (an SSL Certificate is required)."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:103
+msgid "Force HTTP when leaving the checkout"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:113
+msgid "Checkout Pages"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:113
+msgid ""
+"These pages need to be set so that WooCommerce knows where to send users to "
+"checkout."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:116
+msgid "Cart Page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:127
+msgid "Checkout Page"
+msgstr "Thanh toán"
+
+#: includes/admin/settings/class-wc-settings-checkout.php:138
+msgid "Terms and Conditions"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:139
+msgid ""
+"If you define a \"Terms\" page the customer will be asked if they accept "
+"them when checking out."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:151
+msgid "Checkout Endpoints"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:151
+msgid ""
+"Endpoints are appended to your page URLs to handle specific actions during "
+"the checkout process. They should be unique."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:154
+msgid "Pay"
+msgstr "Thanh toán"
+
+#: includes/admin/settings/class-wc-settings-checkout.php:155
+msgid "Endpoint for the Checkout &rarr; Pay page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:163
+msgid "Order Received"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:164
+msgid "Endpoint for the Checkout &rarr; Order Received page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:172
+msgid "Add Payment Method"
+msgstr "Thêm phương thức thanh toán"
+
+#: includes/admin/settings/class-wc-settings-checkout.php:173
+msgid "Endpoint for the Checkout &rarr; Add Payment Method page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:182
+msgid "Payment Gateways"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:182
+msgid ""
+"Installed gateways are listed below. Drag and drop gateways to control their"
+" display order on the frontend."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:224
+msgid "Gateway Display Order"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:232
+msgid "Gateway"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-checkout.php:233
+msgid "Gateway ID"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:27
+msgid "Emails"
+msgstr "Email"
+
+#: includes/admin/settings/class-wc-settings-emails.php:43
+msgid "Email Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:70
+msgid "Email Sender Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:70
+msgid ""
+"The following options affect the sender (email address and name) used in "
+"WooCommerce emails."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:73
+msgid "\"From\" Name"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:83
+msgid "\"From\" Email Address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:97
+msgid "Email Template"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:97
+msgid ""
+"This section lets you customise the WooCommerce emails. <a href=\"%s\" "
+"target=\"_blank\">Click here to preview your email template</a>. For more "
+"advanced control copy <code>woocommerce/templates/emails/</code> to "
+"<code>yourtheme/woocommerce/emails/</code>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:100
+msgid "Header Image"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:101
+msgid ""
+"Enter a URL to an image you want to show in the email's header. Upload your "
+"image using the <a href=\"%s\">media uploader</a>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:110
+msgid "Email Footer Text"
+msgstr "Thông tin tại cuối email."
+
+#: includes/admin/settings/class-wc-settings-emails.php:111
+msgid "The text to appear in the footer of WooCommerce emails."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:115
+msgid "Powered by WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/admin/settings/class-wc-settings-emails.php:120
+msgid "Base Colour"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:121
+msgid ""
+"The base colour for WooCommerce email templates. Default "
+"<code>#557da1</code>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:130
+msgid "Background Colour"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:131
+msgid ""
+"The background colour for WooCommerce email templates. Default "
+"<code>#f5f5f5</code>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:140
+msgid "Email Body Background Colour"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:141
+msgid "The main body background colour. Default <code>#fdfdfd</code>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:150
+msgid "Email Body Text Colour"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-emails.php:151
+msgid "The main body text colour. Default <code>#505050</code>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:54
+msgid "General Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:57
+msgid "Base Location"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:58
+msgid ""
+"This is the base location for your business. Tax rates will be based on this"
+" country."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:67
+msgid "Selling Location(s)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:68
+msgid "This option lets you limit which countries you are willing to sell to."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:76
+msgid "Sell to all countries"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:77
+msgid "Sell to specific countries only"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:82
+#: includes/admin/settings/class-wc-settings-shipping.php:146
+msgid "Specific Countries"
+msgstr "Quốc gia riêng"
+
+#: includes/admin/settings/class-wc-settings-general.php:91
+msgid "Store Notice"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:92
+msgid "Enable site-wide store notice text"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:99
+msgid "Store Notice Text"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:102
+msgid ""
+"This is a demo store for testing purposes &mdash; no orders shall be "
+"fulfilled."
+msgstr "Đây là cửa hàng demo nhằm mục đích thử nghiệm nên các đơn hàng sẽ không có hiệu lực."
+
+#: includes/admin/settings/class-wc-settings-general.php:109
+msgid "API"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:110
+msgid "Enable the REST API"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:118
+msgid "Currency Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:118
+msgid "The following options affect how prices are displayed on the frontend."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:121
+msgid "Currency"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:122
+msgid ""
+"This controls what currency prices are listed at in the catalog and which "
+"currency gateways will take payments in."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:133
+msgid "Currency Position"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:134
+msgid "This controls the position of the currency symbol."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:141
+msgid "Left"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:142
+msgid "Right"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:143
+msgid "Left with space"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:144
+msgid "Right with space"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:150
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:151
+msgid "This sets the thousand separator of displayed prices."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:160
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:161
+msgid "This sets the decimal separator of displayed prices."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:170
+msgid "Number of Decimals"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:171
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:185
+msgid "Styles and Scripts"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:190
+msgid "Scripts"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:191
+msgid "Enable Lightbox"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:194
+msgid ""
+"Include WooCommerce's lightbox. Product gallery images will open in a "
+"lightbox."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:200
+msgid "Enable enhanced country select boxes"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:205
+msgid ""
+"This will enable a script allowing the country fields to be searchable."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:223
+msgid "Frontend Styles"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:253
+msgid "Primary"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:253
+msgid "Call to action buttons/price slider/layered nav UI"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:254
+msgid "Secondary"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:254
+msgid "Buttons and tabs"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:255
+msgid "Highlight"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:255
+msgid "Price labels and Sale Flashes"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:256
+msgid "Content"
+msgstr "Nội dung"
+
+#: includes/admin/settings/class-wc-settings-general.php:256
+msgid "Your themes page background - used for tab active states"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:257
+msgid "Subtext"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:257
+msgid "Used for certain text and asides - breadcrumbs, small text etc."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:260
+msgid ""
+"To edit colours <code>woocommerce/assets/css/woocommerce-base.less</code> "
+"and <code>woocommerce.css</code> need to be writable. See <a "
+"href=\"http://codex.wordpress.org/Changing_File_Permissions\">the Codex</a> "
+"for more information."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-general.php:312
+msgid ""
+"Error saving the Frontend Styles, %s is not a valid color, please use only "
+"valid colors code."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-integrations.php:28
+msgid "Integration"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:44
+msgid "Product Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:82
+msgid "Inventory Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:85
+msgid "Manage Stock"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:86
+msgid "Enable stock management"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:93
+msgid "Hold Stock (minutes)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:94
+msgid ""
+"Hold stock (for unpaid orders) for x minutes. When this limit is reached, "
+"the pending order will be cancelled. Leave blank to disable."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:107
+msgid "Notifications"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:108
+msgid "Enable low stock notifications"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:117
+msgid "Enable out of stock notifications"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:126
+msgid "Notification Recipient"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:135
+msgid "Low Stock Threshold"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:149
+msgid "Out Of Stock Threshold"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:163
+msgid "Out Of Stock Visibility"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:164
+msgid "Hide out of stock items from the catalog"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:171
+msgid "Stock Display Format"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:172
+msgid "This controls how stock is displayed on the frontend."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:178
+msgid "Always show stock e.g. \"12 in stock\""
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:179
+msgid "Only show stock when low e.g. \"Only 2 left in stock\" vs. \"In Stock\""
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:180
+msgid "Never show stock amount"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:199
+msgid ""
+"Note: The shop page has children - child pages will not work if you enable "
+"this option."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:204
+msgid "Product Listings"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:207
+msgid "Product Archive / Shop Page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:208
+msgid ""
+"The base page can also be used in your <a href=\"%s\">product "
+"permalinks</a>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:214
+msgid ""
+"This sets the base page of your shop - this is where your product archive "
+"will be."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:218
+msgid "Shop Page Display"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:219
+msgid "This controls what is shown on the product archive."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:226
+#: includes/admin/settings/class-wc-settings-products.php:242
+msgid "Show products"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:227
+#: includes/admin/settings/class-wc-settings-products.php:243
+msgid "Show subcategories"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:228
+#: includes/admin/settings/class-wc-settings-products.php:244
+msgid "Show both"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:234
+msgid "Default Category Display"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:235
+msgid "This controls what is shown on category archives."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:250
+msgid "Default Product Sorting"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:251
+msgid "This controls the default sort order of the catalog."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:258
+msgid "Default sorting (custom ordering + name)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:259
+msgid "Popularity (sales)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:260
+msgid "Average Rating"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:261
+msgid "Sort by most recent"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:262
+msgid "Sort by price (asc)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:263
+msgid "Sort by price (desc)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:269
+msgid "Add to cart"
+msgstr "Thêm vào giỏ hàng"
+
+#: includes/admin/settings/class-wc-settings-products.php:270
+msgid "Redirect to the cart page after successful addition"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:278
+msgid "Enable AJAX add to cart buttons on archives"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:290
+msgid "Weight Unit"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:291
+msgid "This controls what unit you will define weights in."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:298
+msgid "kg"
+msgstr "kg"
+
+#: includes/admin/settings/class-wc-settings-products.php:299
+msgid "g"
+msgstr "g"
+
+#: includes/admin/settings/class-wc-settings-products.php:300
+msgid "lbs"
+msgstr "lbs"
+
+#: includes/admin/settings/class-wc-settings-products.php:301
+msgid "oz"
+msgstr "oz"
+
+#: includes/admin/settings/class-wc-settings-products.php:307
+msgid "Dimensions Unit"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:308
+msgid "This controls what unit you will define lengths in."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:316
+msgid "cm"
+msgstr "cm"
+
+#: includes/admin/settings/class-wc-settings-products.php:317
+msgid "mm"
+msgstr "mm"
+
+#: includes/admin/settings/class-wc-settings-products.php:318
+msgid "in"
+msgstr "in"
+
+#: includes/admin/settings/class-wc-settings-products.php:319
+msgid "yd"
+msgstr "yd"
+
+#: includes/admin/settings/class-wc-settings-products.php:325
+msgid "Product Ratings"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:326
+msgid "Enable ratings on reviews"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:336
+msgid "Ratings are required to leave a review"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:346
+msgid "Show \"verified owner\" label for customer reviews"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:356
+msgid "Only allow reviews from \"verified owners\""
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:367
+msgid "Product Image Sizes"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:367
+msgid ""
+"These settings affect the actual dimensions of images in your catalog - the "
+"display on the front-end will still be affected by CSS styles. After "
+"changing these settings you may need to <a href=\"%s\">regenerate your "
+"thumbnails</a>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:370
+msgid "Catalog Images"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:371
+msgid "This size is usually used in product listings"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:384
+msgid "Single Product Image"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:385
+msgid "This is the size used by the main image on the product page."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:398
+msgid "Product Thumbnails"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:399
+msgid ""
+"This size is usually used for the gallery of images on the product page."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:413
+msgid "Downloadable Products"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:416
+msgid "File Download Method"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:417
+msgid ""
+"Forcing downloads will keep URLs hidden, but some servers may serve large "
+"files unreliably. If supported, <code>X-Accel-Redirect</code>/ "
+"<code>X-Sendfile</code> can be used to serve downloads instead (server "
+"requires <code>mod_xsendfile</code>)."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:425
+msgid "Force Downloads"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:426
+msgid "X-Accel-Redirect/X-Sendfile"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:427
+msgid "Redirect only"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:433
+msgid "Access Restriction"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:434
+msgid "Downloads require login"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:438
+msgid "This setting does not apply to guest purchases."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:444
+msgid "Grant access to downloadable products after payment"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-products.php:448
+msgid ""
+"Enable this option to grant access to downloads when orders are "
+"\"processing\", rather than \"completed\"."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:44
+#: includes/admin/settings/class-wc-settings-shipping.php:71
+msgid "Shipping Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:74
+msgid "Shipping Calculations"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:75
+msgid "Enable shipping"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:83
+msgid "Enable the shipping calculator on the cart page"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:92
+msgid "Hide shipping costs until an address is entered"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:101
+msgid "Shipping Display Mode"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:102
+msgid ""
+"This controls how multiple shipping methods are displayed on the frontend."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:107
+msgid "Display shipping methods with \"radio\" buttons"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:108
+msgid "Display shipping methods in a dropdown"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:115
+msgid "Shipping Destination"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:116
+msgid "This controls which shipping address is used by default."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:121
+msgid "Default to shipping address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:122
+msgid "Default to billing address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:123
+msgid "Only ship to the users billing address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:131
+msgid "Restrict shipping to Location(s)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:132
+msgid ""
+"Choose which countries you want to ship to, or choose to ship to all <a "
+"href=\"%s\">locations you sell to</a>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:139
+msgid "Ship to all countries you sell to"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:140
+msgid "Ship to all countries"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:141
+msgid "Ship to specific countries only"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:198
+msgid "Shipping Methods"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:205
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/settings/class-wc-settings-shipping.php:249
+msgid "Automatic"
+msgstr "Tự động"
+
+#: includes/admin/settings/class-wc-settings-shipping.php:249
+msgid "The cheapest available shipping method will be selected by default."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-shipping.php:250
+msgid ""
+"Drag and drop the above shipping methods to control their display order."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:43
+#: includes/admin/settings/class-wc-settings-tax.php:75
+msgid "Tax Options"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:44
+msgid "Standard Rates"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:52
+msgid "%s Rates"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:78
+msgid "Enable Taxes"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:79
+msgid "Enable taxes and tax calculations"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:86
+msgid "Prices Entered With Tax"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:90
+msgid ""
+"This option is important as it will affect how you input prices. Changing it"
+" will not update existing products."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:92
+msgid "Yes, I will enter prices inclusive of tax"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:93
+msgid "No, I will enter prices exclusive of tax"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:98
+msgid "Calculate Tax Based On:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:100
+msgid "This option determines which address is used to calculate tax."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:104
+msgid "Customer shipping address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:105
+msgid "Customer billing address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:106
+#: includes/admin/settings/class-wc-settings-tax.php:118
+msgid "Shop base address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:111
+msgid "Default Customer Address:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:113
+msgid ""
+"This option determines the customers default address (before they input "
+"their own)."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:117
+msgid "No address"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:123
+msgid "Shipping Tax Class:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:124
+msgid ""
+"Optionally control which tax class shipping gets, or leave it so shipping "
+"tax is based on the cart items themselves."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:129
+msgid "Shipping tax class based on cart items"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:134
+msgid "Rounding"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:135
+msgid "Round tax at subtotal level, instead of rounding per line"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:142
+msgid "Additional Tax Classes"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:143
+msgid ""
+"List additional tax classes below (1 per line). This is in addition to the "
+"default <code>Standard Rate</code>. Tax classes can be assigned to products."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:147
+msgid "Reduced Rate%sZero Rate"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:151
+msgid "Display prices in the shop:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:156
+#: includes/admin/settings/class-wc-settings-tax.php:175
+msgid "Including tax"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:157
+#: includes/admin/settings/class-wc-settings-tax.php:176
+msgid "Excluding tax"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:162
+msgid "Price display suffix:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:166
+msgid ""
+"Define text to show after your product prices. This could be, for example, "
+"\"inc. Vat\" to explain your pricing. You can also have prices substituted "
+"here using one of the following: <code>{price_including_tax}, "
+"{price_excluding_tax}</code>."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:170
+msgid "Display prices during cart/checkout:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:182
+msgid "Display tax totals:"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:187
+msgid "As a single total"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:188
+msgid "Itemized"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:254
+msgid "Tax Rates for the \"%s\" Class"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:255
+msgid ""
+"Define tax rates for countries and states below. <a href=\"%s\">See here</a>"
+" for available alpha-2 country codes."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:261
+msgid "Country&nbsp;Code"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:261
+msgid "A 2 digit country code, e.g. US. Leave blank to apply to all."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:263
+msgid "State&nbsp;Code"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:263
+msgid "A 2 digit state code, e.g. AL. Leave blank to apply to all."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:265
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "ZIP/Postcode"
+msgstr "Mã bưu điện"
+
+#: includes/admin/settings/class-wc-settings-tax.php:265
+msgid ""
+"Postcode for this rule. Semi-colon (;) separate multiple values. Leave blank"
+" to apply to all areas. Wildcards (*) can be used. Ranges for numeric "
+"postcodes (e.g. 12345-12350) will be expanded into individual postcodes."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:267
+msgid ""
+"Cities for this rule. Semi-colon (;) separate multiple values. Leave blank "
+"to apply to all cities."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:269
+msgid "Rate&nbsp;%"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:269
+msgid "Enter a tax rate (percentage) to 4 decimal places."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:271
+msgid "Tax&nbsp;Name"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:271
+msgid "Enter a name for this tax rate."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:273
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "Priority"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:273
+msgid ""
+"Choose a priority for this tax rate. Only 1 matching rate per priority will "
+"be used. To define multiple tax rates for a single area you need to specify "
+"a different priority per rate."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:275
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "Compound"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:275
+msgid ""
+"Choose whether or not this is a compound rate. Compound tax rates are "
+"applied on top of other tax rates."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:277
+msgid "Choose whether or not this tax rate also gets applied to shipping."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:296
+msgid "Tax rate ID"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:349
+msgid "Insert row"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:350
+msgid "Remove selected row(s)"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:366
+msgid "Import CSV"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:387
+msgid "No row(s) selected"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "Country Code"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "State Code"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-tax.php:394
+msgid "Tax Name"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:16
+msgid "Browse all extensions"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:17
+msgid "Browse themes"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:23
+msgid "Popular"
+msgstr "Phổ biến"
+
+#: includes/admin/views/html-admin-page-addons.php:24
+msgid "Gateways"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:26
+msgid "Import/export"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:28
+msgid "Marketing"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:29
+msgid "Accounting"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:30
+msgid "Free"
+msgstr "Miễn phí"
+
+#: includes/admin/views/html-admin-page-addons.php:31
+msgid "Third-party"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-addons.php:91
+msgid ""
+"Our catalog of WooCommerce Extensions can be found on WooThemes.com here: <a"
+" href=\"%s\">WooCommerce Extensions Catalog</a>"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-logs.php:15
+msgid "Log file: %s (%s)"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-logs.php:33
+msgid "There are currently no logs to view."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:13
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:14
+msgid "Get System Report"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:17
+msgid "Copied!"
+msgstr "Đã sao chép!"
+
+#: includes/admin/views/html-admin-page-status-report.php:17
+msgid "Copy for Support"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:25
+msgid "Environment"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:31
+msgid "Home URL"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:35
+msgid "Site URL"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:39
+msgid "WC Version"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:43
+msgid "WC Database Version"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:47
+msgid "WP Version"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:51
+msgid "WP Multisite Enabled"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:55
+msgid "Web Server Info"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:59
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: includes/admin/views/html-admin-page-status-report.php:63
+msgid "MySQL Version"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:73
+msgid "WP Active Plugins"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:77
+msgid "WP Memory Limit"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:82
+msgid ""
+"%s - We recommend setting memory to at least 64MB. See: <a "
+"href=\"%s\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:89
+msgid "WP Debug Mode"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:93
+msgid "WP Language"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:97
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:102
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:106
+msgid "PHP Time Limit"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:110
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:114
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:119
+msgid "WC Logging"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:122
+msgid "Log directory (%s) is writable."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:124
+msgid ""
+"Log directory (<code>%s</code>) is not writable. To allow logging, make this"
+" writable or define a custom <code>WC_LOG_DIR</code>."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:129
+msgid "Default Timezone"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:133
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:135
+msgid "Default timezone is %s"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:143
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:146
+msgid "Your server has fsockopen and cURL enabled."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:148
+msgid "Your server has fsockopen enabled, cURL is disabled."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:150
+msgid "Your server has cURL enabled, fsockopen is disabled."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:154
+msgid ""
+"Your server does not have fsockopen or cURL enabled - PayPal IPN and other "
+"scripts which communicate with other servers will not work. Contact your "
+"hosting provider."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:159
+msgid "SOAP Client"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:161
+msgid "Your server has the SOAP Client class enabled."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:164
+msgid ""
+"Your server does not have the <a href=\"%s\">SOAP Client</a> class enabled -"
+" some gateway plugins which use SOAP may not work as expected."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:169
+msgid "WP Remote Post"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:180
+msgid "wp_remote_post() was successful - PayPal IPN is working."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:183
+msgid ""
+"wp_remote_post() failed. PayPal IPN won't work with your server. Contact "
+"your hosting provider. Error:"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:186
+msgid "wp_remote_post() failed. PayPal IPN may not work with your server."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:209
+msgid "Locale"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:225
+msgid "Plugins"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:231
+msgid "Installed Plugins"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:251
+msgid "Visit plugin homepage"
+msgstr "Ghé thăm trang chủ"
+
+#: includes/admin/views/html-admin-page-status-report.php:275
+#: includes/admin/views/html-admin-page-status-report.php:447
+msgid "is available"
+msgstr "có sẵn"
+
+#: includes/admin/views/html-admin-page-status-report.php:278
+msgid "by"
+msgstr "bởi"
+
+#: includes/admin/views/html-admin-page-status-report.php:278
+msgid "version"
+msgstr "phiên bản"
+
+#: includes/admin/views/html-admin-page-status-report.php:300
+msgid "Force SSL"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:307
+msgid "WC Pages"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:346
+msgid "Page not set"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:356
+msgid "Page does not exist"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:361
+msgid "Page does not contain the shortcode: %s"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:380
+msgid "WC Taxonomies"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:386
+msgid "Product Types"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:399
+msgid "Theme"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:436
+msgid "Theme Name"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:442
+msgid "Theme Version"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:451
+msgid "Theme Author URL"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:457
+msgid "Is Child Theme"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:465
+msgid "Parent Theme Name"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:469
+msgid "Parent Theme Version"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:473
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:480
+msgid "WooCommerce Support"
+msgstr "Hỗ trợ"
+
+#: includes/admin/views/html-admin-page-status-report.php:483
+msgid "Not Declared"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:493
+msgid "Templates"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:527
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:539
+#: includes/admin/views/html-admin-page-status-report.php:547
+msgid "Template Overrides"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:548
+msgid "No overrides present in theme."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-tools.php:18
+#: includes/admin/views/html-admin-page-status.php:17
+msgid "Tools"
+msgstr "Công cụ"
+
+#: includes/admin/views/html-admin-page-status-tools.php:34
+msgid "Shipping Debug Mode"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-tools.php:40
+msgid "This tool will disable shipping rate caching."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-tools.php:45
+msgid "Template Debug Mode"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-tools.php:51
+msgid ""
+"This tool will disable template overrides for logged-in administrators for "
+"debugging purposes."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-tools.php:56
+msgid "Remove post types on uninstall"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-tools.php:62
+msgid ""
+"This tool will delete all product and order post data when uninstalling via "
+"Plugins > Delete."
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-tools.php:69
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: includes/admin/views/html-admin-page-status.php:18
+msgid "Logs"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:31
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: includes/admin/views/html-bulk-edit-product.php:26
+#: includes/admin/views/html-bulk-edit-product.php:50
+#: includes/admin/views/html-bulk-edit-product.php:74
+#: includes/admin/views/html-bulk-edit-product.php:93
+#: includes/admin/views/html-bulk-edit-product.php:119
+#: includes/admin/views/html-bulk-edit-product.php:143
+#: includes/admin/views/html-bulk-edit-product.php:167
+#: includes/admin/views/html-bulk-edit-product.php:186
+#: includes/admin/views/html-bulk-edit-product.php:204
+#: includes/admin/views/html-bulk-edit-product.php:223
+#: includes/admin/views/html-bulk-edit-product.php:242
+#: includes/admin/views/html-bulk-edit-product.php:263
+#: includes/admin/views/html-bulk-edit-product.php:284
+msgid "— No Change —"
+msgstr "- Không thay đổi -"
+
+#: includes/admin/views/html-bulk-edit-product.php:27
+#: includes/admin/views/html-bulk-edit-product.php:51
+#: includes/admin/views/html-bulk-edit-product.php:120
+#: includes/admin/views/html-bulk-edit-product.php:144
+#: includes/admin/views/html-bulk-edit-product.php:243
+msgid "Change to:"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:28
+#: includes/admin/views/html-bulk-edit-product.php:52
+msgid "Increase by (fixed amount or %):"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:29
+#: includes/admin/views/html-bulk-edit-product.php:53
+msgid "Decrease by (fixed amount or %):"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:39
+#: includes/admin/views/html-bulk-edit-product.php:64
+msgid "Enter price"
+msgstr "Nhập giá"
+
+#: includes/admin/views/html-bulk-edit-product.php:45
+#: includes/admin/views/html-quick-edit-product.php:40
+msgid "Sale"
+msgstr "Khuyến mại"
+
+#: includes/admin/views/html-bulk-edit-product.php:54
+msgid "Decrease regular price by (fixed amount or %):"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:138
+#: includes/admin/views/html-quick-edit-product.php:106
+msgid "L/W/H"
+msgstr "D/R/C"
+
+#: includes/admin/views/html-bulk-edit-product.php:162
+#: includes/admin/views/html-quick-edit-product.php:120
+msgid "Visibility"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:168
+#: includes/admin/views/html-quick-edit-product.php:125
+msgid "Catalog &amp; search"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:199
+#: includes/admin/views/html-quick-edit-product.php:143
+msgid "In stock?"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:258
+#: includes/admin/views/html-quick-edit-product.php:178
+msgid "Backorders?"
+msgstr ""
+
+#: includes/admin/views/html-bulk-edit-product.php:279
+msgid "Sold Individually?"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:13
+msgid ""
+"<strong>Welcome to WooCommerce</strong> &#8211; You're almost ready to start"
+" selling :)"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:14
+msgid "Skip setup"
+msgstr "Bỏ qua những thiết lập này"
+
+#: includes/admin/views/html-notice-mijireh.php:20
+msgid ""
+"<strong>The Mijireh payment gateway is deprecated</strong> &#8211; It is "
+"recommended that you install the replacement Mijireh plugin from "
+"WordPress.org as soon as possible. Mijireh will be removed from WC core "
+"completely as part of a future update."
+msgstr ""
+
+#: includes/admin/views/html-notice-mijireh.php:22
+msgid "Install the new Mijireh plugin"
+msgstr ""
+
+#: includes/admin/views/html-notice-template-check.php:13
+msgid ""
+"<strong>Your theme has bundled outdated copies of WooCommerce template "
+"files</strong> &#8211; if you encounter functionality issues on the frontend"
+" this could be the reason. Ensure you update or remove them (in general we "
+"recommend only bundling the template files you actually need to customize). "
+"See the system report for full details."
+msgstr ""
+
+#: includes/admin/views/html-notice-template-check.php:14
+#: includes/admin/views/html-notice-theme-support.php:14
+msgid "Hide this notice"
+msgstr ""
+
+#: includes/admin/views/html-notice-theme-support.php:13
+msgid ""
+"<strong>Your theme does not declare WooCommerce support</strong> &#8211; if "
+"you encounter layout issues please read our integration guide or choose a "
+"WooCommerce theme :)"
+msgstr ""
+
+#: includes/admin/views/html-notice-theme-support.php:14
+msgid "Theme Integration Guide"
+msgstr ""
+
+#: includes/admin/views/html-notice-translation-upgrade.php:17
+msgid ""
+"<strong>WooCommerce Translation Available</strong> &#8211; Install or update"
+" your <code>%s</code> translation to version <code>%s</code>."
+msgstr ""
+
+#: includes/admin/views/html-notice-translation-upgrade.php:21
+#: includes/admin/views/html-notice-translation-upgrade.php:23
+msgid "Update Translation"
+msgstr ""
+
+#: includes/admin/views/html-notice-translation-upgrade.php:24
+msgid "Force Update Translation"
+msgstr ""
+
+#: includes/admin/views/html-notice-translation-upgrade.php:26
+msgid "Hide This Message"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:13
+msgid ""
+"<strong>WooCommerce Data Update Required</strong> &#8211; We just need to "
+"update your install to the latest version"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:14
+msgid "Run the updater"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:18
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: includes/admin/views/html-quick-edit-product.php:35
+msgid "Regular price"
+msgstr ""
+
+#: includes/admin/views/html-quick-edit-product.php:42
+msgid "Sale price"
+msgstr ""
+
+#: includes/admin/views/html-report-by-date.php:22
+msgid "Custom:"
+msgstr ""
+
+#: includes/admin/wc-admin-functions.php:200
+msgid "Could not compile woocommerce.less:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/woocommerce/"
+msgstr "http://www.woothemes.com/woocommerce/"
+
+#. Description of the plugin/theme
+msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
+msgstr "Công cụ thương mại điện tử giúp bạn bán mọi thứ. Rất đẹp"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com"
+msgstr "http://woothemes.com"
+
+#: includes/admin/class-wc-admin-menus.php:128
+#: includes/admin/class-wc-admin-menus.php:130
+msgctxt "Admin menu name"
+msgid "Orders"
+msgstr "Đơn hàng"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:67
+msgctxt "slug"
+msgid "product-category"
+msgstr "danh-muc"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:77
+msgctxt "slug"
+msgid "product-tag"
+msgstr "tu-khoa"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:189
+msgctxt "slug"
+msgid "product"
+msgstr "sản phẩm"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:102
+#: includes/admin/class-wc-admin-permalink-settings.php:202
+msgctxt "default-slug"
+msgid "shop"
+msgstr "sho"
+
+#: includes/admin/class-wc-admin-permalink-settings.php:103
+msgctxt "default-slug"
+msgid "product"
+msgstr "sản phẩm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:77
+msgctxt "placeholder"
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:194
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:206
+msgctxt "placeholder"
+msgid "Unlimited usage"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:200
+msgctxt "placeholder"
+msgid "Apply to all qualifying items in cart"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:157
+msgctxt "placeholder"
+msgid "Buy product"
+msgstr "Mua sản phẩm"
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:175
+#: includes/admin/meta-boxes/views/html-variation-admin.php:79
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:176
+#: includes/admin/meta-boxes/views/html-variation-admin.php:83
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:259
+#: includes/admin/views/html-bulk-edit-product.php:77
+#: includes/admin/views/html-quick-edit-product.php:56
+msgctxt "Tax status"
+msgid "None"
+msgstr "Trống"
+
+#: includes/admin/meta-boxes/views/html-order-items.php:277
+msgctxt "Refund $amount"
+msgid "Refund %s via %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-refund.php:19
+msgctxt "Ex: Refund - $date >by< $username"
+msgid "by"
+msgstr "bởi"
+
+#: includes/admin/settings/class-wc-settings-checkout.php:28
+msgctxt "Settings tab label"
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: includes/admin/settings/class-wc-settings-checkout.php:82
+msgctxt "Settings group label"
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: includes/admin/views/html-admin-page-status-report.php:314
+msgctxt "Page setting"
+msgid "Shop Base"
+msgstr ""
+
+#: includes/admin/views/html-admin-page-status-report.php:318
+msgctxt "Page setting"
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: includes/admin/views/html-admin-page-status-report.php:322
+msgctxt "Page setting"
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: includes/admin/views/html-admin-page-status-report.php:326
+msgctxt "Page setting"
+msgid "My Account"
+msgstr "Tài khoản"
