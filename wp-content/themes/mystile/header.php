@@ -63,7 +63,7 @@ global $woo_options, $woocommerce;
 
 
 
-            <hgroup style="display: block!important;">
+            <hgroup style="display: block !important; opacity: 1 !important; visibility: visible !important;">
 
 	    	 <?php
 			    $logo = esc_url( get_template_directory_uri() . '/images/logo.png' );

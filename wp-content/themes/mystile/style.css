@@ -534,7 +534,7 @@ ul.nav li a {
 }
 #top .wc-nav li.search input {
   width: 100%;
-  padding-left: 0;
+  padding-left: 5%;
 }
 #top .wc-nav li.search form {
   margin-bottom: 0;

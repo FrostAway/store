@@ -3,14 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min.js</file>
-            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce-vietnam-currency/plugin.php</file>
-            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js</file>
-            <file>file:/E:/wamp/www/store/wp-content/themes/mystile/page.php</file>
-            <file>file:/E:/wamp/www/store/wp-content/themes/mystile/css/layout.css</file>
-            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/assets/js/zeroclipboard/jquery.zeroclipboard.js</file>
-            <file>file:/E:/wamp/www/store/wp-content/themes/mystile/style.css</file>
-            <file>file:/E:/wamp/www/store/wp-content/themes/mystile/footer.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/loop/price.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/archive-product.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/loop/loop-start.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/single-product/meta.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/themes/mystile/index.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/loop/rating.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/loop/result-count.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/includes/wc-core-functions.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/content-product.php</file>
+            <file>file:/E:/wamp/www/store/wp-content/plugins/woocommerce/templates/loop/loop-end.php</file>
         </group>
     </open-files>
 </project-private>
